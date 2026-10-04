@@ -1,2 +1,2 @@
-# IPL-Cricket-Analysis-Dashboard
-Interactive IPL Analysis Dashboard using Power BI, SQL, Python
+
+Interactive Power BI dashboard analyzing cyber fraud trends in India, with insights into fraud types, states, demographics, yearly trends, incidents, and financial losses.
