@@ -320,15 +320,17 @@ Business Insights
 
 ```text
 Cyber-Fraud-Trends-in-India-Excel-Dashboard/
-│
-├── 📁 Dashboard/
-│   └── 🖼️ Cyber_Fraud_Dashboard.png
 |
 ├── 📁 Data/
-│   └── 📄 data_project_cyber_fruad_sample.csv
+│   └── 📄 Cyber Fraud India Data.csv
 │
 ├── 📁 Excel/
-│   └── 📊 Cyber_Fraud_India_Dashboard.xlsx
+│   └── 📊 Cyber Fraud India Dashboard.xlsx
+|
+├── 📁 Image/
+│   └── 🖼️ Cyber Fraud India Dashboard Image.png
+|
+└── 📄 LICENSE
 │
 └── 📄 README.md
 ```
