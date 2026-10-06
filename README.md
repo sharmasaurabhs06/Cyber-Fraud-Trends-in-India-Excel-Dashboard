@@ -313,7 +313,6 @@ Interactive Dashboard
      ↓
 Business Insights
 ```
-
 ---
 
 ## 📂 Project Structure
@@ -333,6 +332,7 @@ Cyber-Fraud-Trends-in-India-Excel-Dashboard/
 └── 📄 LICENSE
 │
 └── 📄 README.md
+```
 ---
 
 ## 📊 Dashboard Features
