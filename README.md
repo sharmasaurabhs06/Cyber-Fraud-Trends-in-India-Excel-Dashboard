@@ -321,14 +321,16 @@ Business Insights
 ```text
 Cyber-Fraud-Trends-in-India-Excel-Dashboard/
 │
-├── 📊 Cyber Fraud India Dashboard.xlsx
+├── 📁 Dashboard/
+│   └── 🖼️ Cyber_Fraud_Dashboard.png
+|
+├── 📁 Data/
+│   └── 📄 data_project_cyber_fruad_sample.xlsx
 │
-├── 🖼️ Dashboard.png
+├── 📁 Excel/
+│   └── 📊 Cyber Fraud India Dashboard.xlsx
 │
-├── 📄 README.md
-│
-└── 📁 Documentation/
-    └── Project_Insights.md
+└── 📄 README.md
 ```
 
 > Replace the file names above with your actual GitHub file names if they are different.
