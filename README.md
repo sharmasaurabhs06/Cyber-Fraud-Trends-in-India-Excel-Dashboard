@@ -325,10 +325,10 @@ Cyber-Fraud-Trends-in-India-Excel-Dashboard/
 │   └── 🖼️ Cyber_Fraud_Dashboard.png
 |
 ├── 📁 Data/
-│   └── 📄 data_project_cyber_fruad_sample.xlsx
+│   └── 📄 data_project_cyber_fruad_sample.csv
 │
 ├── 📁 Excel/
-│   └── 📊 Cyber Fraud India Dashboard.xlsx
+│   └── 📊 Cyber_Fraud_India_Dashboard.xlsx
 │
 └── 📄 README.md
 ```
