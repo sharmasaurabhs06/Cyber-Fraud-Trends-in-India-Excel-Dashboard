@@ -1,0 +1,1000 @@
+Incident_ID,Date,State,District,Fraud_Type,Victim_Age_Group,Victim_Gender,Amount_Lost_INR,Action_Taken,Reported_By
+CFI00001,02-08-2024,Uttar Pradesh,District-1,Social Media Hacking,26-35,Male,118026,Under Investigation,Local Police
+CFI00002,17-10-2024,Chhattisgarh,District-3,Job Scam,36-45,Male,16622,FIR Registered,Cyber Cell
+CFI00003,22-04-2022,Jharkhand,District-20,Phishing,46-60,Male,376400,Resolved,Bank
+CFI00004,28-03-2022,Odisha,District-19,Debit Card Fraud,Under 18,Male,367026,No Action,Self Report
+CFI00005,24-07-2022,Delhi,District-7,Ransomware,26-35,Male,49625,No Action,Local Police
+CFI00006,06-01-2023,Punjab,District-20,Debit Card Fraud,Under 18,Other,241870,Resolved,Local Police
+CFI00007,15-02-2023,Tamil Nadu,District-18,Debit Card Fraud,60+,Other,465231,Complaint Filed,Helpline
+CFI00008,29-01-2022,Tamil Nadu,District-2,Lottery Scam,18-25,Female,42833,Under Investigation,Local Police
+CFI00009,18-02-2023,Telangana,District-15,Lottery Scam,26-35,Male,195081,Complaint Filed,Cyber Cell
+CFI00010,04-10-2024,Telangana,District-23,Lottery Scam,60+,Male,320360,Under Investigation,Helpline
+CFI00011,02-02-2025,Rajasthan,District-6,Online Shopping Scam,36-45,Female,486171,Resolved,Cyber Cell
+CFI00012,03-11-2024,Madhya Pradesh,District-27,Ransomware,Under 18,Male,431861,FIR Registered,Self Report
+CFI00013,02-04-2023,Telangana,District-3,Credit Card Fraud,46-60,Other,165981,Under Investigation,Bank
+CFI00014,22-03-2023,Odisha,District-5,Debit Card Fraud,18-25,Male,391588,Resolved,Helpline
+CFI00015,23-06-2022,Himachal Pradesh,District-14,Job Scam,36-45,Female,115987,Under Investigation,Helpline
+CFI00016,08-10-2023,Tamil Nadu,District-25,Phishing,Under 18,Male,329962,Under Investigation,Bank
+CFI00017,06-05-2024,Tamil Nadu,District-13,SIM Swap,46-60,Female,278408,Complaint Filed,Helpline
+CFI00018,29-10-2025,Maharashtra,District-22,Social Media Hacking,Under 18,Other,464883,Resolved,Self Report
+CFI00019,24-04-2025,Madhya Pradesh,District-4,Debit Card Fraud,36-45,Male,238881,FIR Registered,Self Report
+CFI00020,23-10-2023,Gujarat,District-17,OTP Fraud,60+,Female,442277,Resolved,Helpline
+CFI00021,12-02-2022,Delhi,District-12,Ransomware,18-25,Other,409224,Resolved,Local Police
+CFI00022,11-05-2024,Madhya Pradesh,District-16,Phishing,Under 18,Female,461703,Complaint Filed,Cyber Cell
+CFI00023,29-04-2021,Rajasthan,District-29,Job Scam,Under 18,Male,384730,No Action,Local Police
+CFI00024,07-04-2025,Chhattisgarh,District-25,UPI Fraud,18-25,Other,250184,Resolved,Cyber Cell
+CFI00025,27-06-2022,Jharkhand,District-28,Job Scam,36-45,Male,488018,Resolved,Cyber Cell
+CFI00026,31-12-2024,Kerala,District-13,Lottery Scam,60+,Female,230690,Resolved,Bank
+CFI00027,05-09-2021,Rajasthan,District-8,OTP Fraud,26-35,Male,309443,Resolved,Cyber Cell
+CFI00028,20-04-2024,Rajasthan,District-1,OTP Fraud,60+,Other,31866,Under Investigation,Local Police
+CFI00029,06-03-2021,Madhya Pradesh,District-3,Investment Scam,18-25,Female,351737,No Action,Cyber Cell
+CFI00030,10-01-2024,Delhi,District-24,Job Scam,46-60,Female,128400,No Action,Bank
+CFI00031,25-01-2022,Uttar Pradesh,District-4,Lottery Scam,36-45,Female,223077,No Action,Bank
+CFI00032,05-11-2025,Karnataka,District-22,Lottery Scam,60+,Male,32778,No Action,Self Report
+CFI00033,28-06-2025,Uttar Pradesh,District-8,Credit Card Fraud,18-25,Other,236202,Under Investigation,Bank
+CFI00034,11-01-2022,Telangana,District-15,Credit Card Fraud,Under 18,Female,424636,Resolved,Local Police
+CFI00035,14-04-2021,Chhattisgarh,District-27,Phishing,Under 18,Male,88194,No Action,Bank
+CFI00036,13-09-2023,West Bengal,District-28,SIM Swap,Under 18,Male,199691,FIR Registered,Bank
+CFI00037,28-06-2022,Odisha,District-10,SIM Swap,60+,Other,411707,Resolved,Bank
+CFI00038,14-11-2021,West Bengal,District-10,Credit Card Fraud,Under 18,Other,386738,Resolved,Local Police
+CFI00039,12-03-2025,Madhya Pradesh,District-2,Phishing,46-60,Female,264638,Resolved,Cyber Cell
+CFI00040,27-04-2021,Jharkhand,District-3,Data Breach,18-25,Male,312969,FIR Registered,Cyber Cell
+CFI00041,07-04-2023,Uttar Pradesh,District-29,Job Scam,18-25,Other,312699,FIR Registered,Helpline
+CFI00042,17-06-2021,Bihar,District-22,Job Scam,46-60,Other,166868,Complaint Filed,Cyber Cell
+CFI00043,03-10-2024,Madhya Pradesh,District-8,Debit Card Fraud,36-45,Male,353159,Complaint Filed,Bank
+CFI00044,10-10-2022,Tamil Nadu,District-1,Online Shopping Scam,46-60,Other,53418,FIR Registered,Helpline
+CFI00045,13-03-2022,Jharkhand,District-9,UPI Fraud,26-35,Male,461990,Under Investigation,Self Report
+CFI00046,07-08-2022,Gujarat,District-15,Data Breach,46-60,Other,159606,Resolved,Helpline
+CFI00047,17-01-2021,Chhattisgarh,District-10,Lottery Scam,Under 18,Male,139656,FIR Registered,Local Police
+CFI00048,01-03-2025,Chhattisgarh,District-5,Debit Card Fraud,26-35,Other,111430,Complaint Filed,Cyber Cell
+CFI00049,08-11-2024,Telangana,District-17,Online Shopping Scam,26-35,Male,49390,No Action,Self Report
+CFI00050,01-04-2021,Maharashtra,District-11,Ransomware,18-25,Other,138340,Under Investigation,Bank
+CFI00051,04-02-2024,Bihar,District-18,Phishing,Under 18,Male,496478,Under Investigation,Helpline
+CFI00052,15-03-2021,Punjab,District-19,Investment Scam,18-25,Female,67818,FIR Registered,Self Report
+CFI00053,17-01-2023,Karnataka,District-29,Identity Theft,18-25,Other,131825,FIR Registered,Self Report
+CFI00054,17-05-2025,Chhattisgarh,District-29,Data Breach,36-45,Other,393942,Under Investigation,Cyber Cell
+CFI00055,06-11-2025,Gujarat,District-26,Ransomware,18-25,Female,13995,Under Investigation,Self Report
+CFI00056,22-05-2025,Bihar,District-26,Lottery Scam,60+,Male,140883,Under Investigation,Local Police
+CFI00057,23-02-2023,Karnataka,District-28,Online Shopping Scam,18-25,Male,429126,No Action,Self Report
+CFI00058,18-09-2022,Rajasthan,District-8,Phishing,60+,Male,209910,Complaint Filed,Self Report
+CFI00059,06-11-2025,Tamil Nadu,District-25,Debit Card Fraud,26-35,Other,268075,No Action,Helpline
+CFI00060,10-11-2022,Maharashtra,District-4,Debit Card Fraud,18-25,Other,140180,FIR Registered,Local Police
+CFI00061,06-05-2024,Bihar,District-12,Social Media Hacking,26-35,Female,318828,Resolved,Local Police
+CFI00062,28-02-2023,Himachal Pradesh,District-7,Debit Card Fraud,Under 18,Other,229619,FIR Registered,Helpline
+CFI00063,10-07-2025,Chhattisgarh,District-22,Social Media Hacking,60+,Other,352602,Under Investigation,Self Report
+CFI00064,03-06-2023,Tamil Nadu,District-22,Identity Theft,46-60,Female,348806,FIR Registered,Self Report
+CFI00065,05-11-2023,Kerala,District-22,SIM Swap,26-35,Female,366538,Complaint Filed,Helpline
+CFI00066,18-09-2021,West Bengal,District-14,Lottery Scam,36-45,Other,393237,Under Investigation,Helpline
+CFI00067,11-03-2024,Kerala,District-13,Investment Scam,Under 18,Female,151425,Under Investigation,Bank
+CFI00068,29-05-2025,Himachal Pradesh,District-20,Lottery Scam,26-35,Female,232623,No Action,Cyber Cell
+CFI00069,13-11-2023,Assam,District-26,Ransomware,60+,Male,346427,FIR Registered,Self Report
+CFI00070,22-11-2023,Uttarakhand,District-11,OTP Fraud,18-25,Other,163749,Under Investigation,Cyber Cell
+CFI00071,29-10-2021,Maharashtra,District-2,Credit Card Fraud,36-45,Other,446507,FIR Registered,Bank
+CFI00072,29-04-2023,Himachal Pradesh,District-7,Social Media Hacking,60+,Female,260196,No Action,Cyber Cell
+CFI00073,30-10-2021,Maharashtra,District-29,Ransomware,Under 18,Female,115735,Under Investigation,Helpline
+CFI00074,10-08-2023,Karnataka,District-18,Credit Card Fraud,Under 18,Female,70908,No Action,Helpline
+CFI00075,19-02-2024,Uttarakhand,District-11,Ransomware,36-45,Other,428298,Resolved,Bank
+CFI00076,29-08-2025,Chhattisgarh,District-15,UPI Fraud,60+,Female,236966,Complaint Filed,Cyber Cell
+CFI00077,17-09-2025,Telangana,District-25,Ransomware,46-60,Female,329596,Under Investigation,Self Report
+CFI00078,20-06-2023,Tamil Nadu,District-23,Debit Card Fraud,18-25,Female,177080,Complaint Filed,Helpline
+CFI00079,15-06-2021,Delhi,District-5,Credit Card Fraud,36-45,Other,81113,Under Investigation,Local Police
+CFI00080,30-04-2023,Bihar,District-11,Investment Scam,36-45,Female,33645,Under Investigation,Bank
+CFI00081,09-03-2023,Himachal Pradesh,District-23,Phishing,46-60,Female,251074,FIR Registered,Self Report
+CFI00082,04-09-2022,Haryana,District-28,Data Breach,36-45,Other,392913,Resolved,Helpline
+CFI00083,28-03-2022,Assam,District-8,Debit Card Fraud,36-45,Female,16217,No Action,Self Report
+CFI00084,01-10-2024,Haryana,District-24,UPI Fraud,36-45,Male,327241,Resolved,Local Police
+CFI00085,18-03-2023,Himachal Pradesh,District-19,Lottery Scam,Under 18,Male,337985,No Action,Cyber Cell
+CFI00086,11-11-2025,Odisha,District-6,Phishing,26-35,Female,172627,Under Investigation,Bank
+CFI00087,01-11-2022,Madhya Pradesh,District-25,SIM Swap,26-35,Female,133262,FIR Registered,Bank
+CFI00088,09-02-2021,Chhattisgarh,District-2,Identity Theft,18-25,Other,36975,FIR Registered,Local Police
+CFI00089,22-05-2022,West Bengal,District-27,Phishing,46-60,Male,126066,Under Investigation,Bank
+CFI00090,03-10-2024,Uttar Pradesh,District-19,Credit Card Fraud,36-45,Other,135345,Complaint Filed,Cyber Cell
+CFI00091,25-05-2024,Uttarakhand,District-24,Social Media Hacking,Under 18,Male,164073,FIR Registered,Helpline
+CFI00092,22-02-2021,Kerala,District-19,Lottery Scam,36-45,Female,494601,Under Investigation,Local Police
+CFI00093,27-04-2024,Rajasthan,District-4,Social Media Hacking,26-35,Other,315788,FIR Registered,Helpline
+CFI00094,22-05-2025,Karnataka,District-12,Investment Scam,36-45,Other,195285,FIR Registered,Helpline
+CFI00095,19-08-2024,Madhya Pradesh,District-1,Data Breach,36-45,Female,56332,No Action,Self Report
+CFI00096,25-07-2024,Odisha,District-23,UPI Fraud,36-45,Male,385720,Resolved,Self Report
+CFI00097,15-06-2024,Chhattisgarh,District-25,Online Shopping Scam,36-45,Female,433922,Resolved,Self Report
+CFI00098,23-10-2022,Rajasthan,District-27,OTP Fraud,26-35,Female,128854,No Action,Helpline
+CFI00099,03-06-2024,Haryana,District-11,Phishing,36-45,Female,96336,No Action,Cyber Cell
+CFI00100,28-12-2022,Telangana,District-11,Debit Card Fraud,46-60,Other,462429,Complaint Filed,Helpline
+CFI00101,21-01-2021,Jharkhand,District-7,OTP Fraud,18-25,Other,214085,No Action,Helpline
+CFI00102,02-04-2025,Rajasthan,District-23,Online Shopping Scam,60+,Other,258331,No Action,Local Police
+CFI00103,10-07-2021,Kerala,District-8,SIM Swap,60+,Male,161540,Resolved,Self Report
+CFI00104,28-08-2023,Chhattisgarh,District-17,Identity Theft,36-45,Other,289562,Complaint Filed,Self Report
+CFI00105,10-12-2024,Odisha,District-9,Debit Card Fraud,26-35,Male,64258,Under Investigation,Self Report
+CFI00106,02-09-2021,Chhattisgarh,District-25,Social Media Hacking,18-25,Male,114447,No Action,Self Report
+CFI00107,23-01-2025,Himachal Pradesh,District-25,Investment Scam,46-60,Female,53704,Under Investigation,Self Report
+CFI00108,11-04-2022,Punjab,District-6,Debit Card Fraud,Under 18,Other,281040,Under Investigation,Self Report
+CFI00109,04-04-2021,Karnataka,District-18,Debit Card Fraud,60+,Male,335427,No Action,Local Police
+CFI00110,23-11-2025,Maharashtra,District-19,Debit Card Fraud,36-45,Female,231932,Complaint Filed,Cyber Cell
+CFI00111,16-04-2021,Telangana,District-28,Online Shopping Scam,Under 18,Male,211086,No Action,Local Police
+CFI00112,27-03-2024,Karnataka,District-5,UPI Fraud,46-60,Female,45659,Under Investigation,Local Police
+CFI00113,17-02-2024,Bihar,District-20,Job Scam,46-60,Male,407686,Resolved,Bank
+CFI00114,12-07-2023,Odisha,District-10,Data Breach,46-60,Female,161107,Resolved,Helpline
+CFI00115,04-05-2021,Uttarakhand,District-24,OTP Fraud,18-25,Other,111637,Complaint Filed,Local Police
+CFI00116,18-11-2021,Rajasthan,District-6,Investment Scam,Under 18,Male,2402,No Action,Bank
+CFI00117,12-11-2024,Uttarakhand,District-16,Debit Card Fraud,Under 18,Male,152049,Complaint Filed,Bank
+CFI00118,26-05-2021,Rajasthan,District-30,Debit Card Fraud,60+,Other,347650,Under Investigation,Bank
+CFI00119,24-08-2021,Chhattisgarh,District-8,Lottery Scam,18-25,Female,434392,Under Investigation,Local Police
+CFI00120,03-05-2021,Gujarat,District-26,Debit Card Fraud,46-60,Other,433139,Resolved,Self Report
+CFI00121,19-06-2023,Uttar Pradesh,District-15,Social Media Hacking,26-35,Other,212030,Complaint Filed,Helpline
+CFI00122,11-01-2024,Assam,District-15,OTP Fraud,46-60,Male,467313,No Action,Self Report
+CFI00123,21-05-2024,Telangana,District-1,OTP Fraud,18-25,Other,439283,Resolved,Helpline
+CFI00124,12-02-2021,Telangana,District-19,Phishing,18-25,Female,273086,No Action,Self Report
+CFI00125,07-01-2022,Himachal Pradesh,District-14,Lottery Scam,36-45,Male,247420,Complaint Filed,Bank
+CFI00126,14-11-2022,Madhya Pradesh,District-22,OTP Fraud,18-25,Female,216820,No Action,Self Report
+CFI00127,18-09-2024,Haryana,District-27,Ransomware,46-60,Male,239459,FIR Registered,Self Report
+CFI00128,01-06-2022,Madhya Pradesh,District-4,Ransomware,36-45,Other,433499,FIR Registered,Helpline
+CFI00129,05-08-2023,Bihar,District-2,Credit Card Fraud,46-60,Female,327439,No Action,Bank
+CFI00130,06-04-2025,Karnataka,District-7,Debit Card Fraud,46-60,Male,487367,Complaint Filed,Bank
+CFI00131,09-12-2025,Assam,District-4,Phishing,60+,Other,420070,Under Investigation,Cyber Cell
+CFI00132,29-09-2022,Chhattisgarh,District-1,Investment Scam,36-45,Male,118807,FIR Registered,Bank
+CFI00133,29-08-2021,Delhi,District-16,Social Media Hacking,26-35,Other,370838,Complaint Filed,Bank
+CFI00134,06-09-2025,Assam,District-16,Credit Card Fraud,36-45,Other,76834,No Action,Cyber Cell
+CFI00135,12-05-2024,Jharkhand,District-24,UPI Fraud,Under 18,Female,406104,No Action,Self Report
+CFI00136,02-06-2025,Jharkhand,District-9,Data Breach,Under 18,Female,381659,Complaint Filed,Helpline
+CFI00137,02-04-2024,Assam,District-28,UPI Fraud,36-45,Other,254934,Complaint Filed,Self Report
+CFI00138,05-02-2024,Chhattisgarh,District-13,Online Shopping Scam,26-35,Male,366690,Under Investigation,Helpline
+CFI00139,24-02-2023,Rajasthan,District-28,Ransomware,36-45,Male,167816,No Action,Bank
+CFI00140,02-03-2023,Delhi,District-16,Phishing,18-25,Other,310424,Complaint Filed,Local Police
+CFI00141,26-11-2025,Odisha,District-4,Investment Scam,36-45,Male,379768,Under Investigation,Bank
+CFI00142,19-11-2025,Delhi,District-3,Online Shopping Scam,26-35,Female,327767,No Action,Local Police
+CFI00143,11-10-2025,Madhya Pradesh,District-28,Lottery Scam,46-60,Female,167021,No Action,Helpline
+CFI00144,15-03-2021,Uttarakhand,District-3,Credit Card Fraud,60+,Other,483832,Complaint Filed,Cyber Cell
+CFI00145,10-03-2025,Tamil Nadu,District-14,OTP Fraud,60+,Other,458482,FIR Registered,Bank
+CFI00146,07-12-2021,Kerala,District-29,Phishing,Under 18,Female,418408,FIR Registered,Self Report
+CFI00147,05-01-2023,Punjab,District-14,UPI Fraud,18-25,Other,217033,Resolved,Cyber Cell
+CFI00148,15-12-2021,Gujarat,District-3,Job Scam,36-45,Other,359159,Under Investigation,Bank
+CFI00149,09-04-2024,Delhi,District-8,Online Shopping Scam,60+,Female,241947,Complaint Filed,Local Police
+CFI00150,06-07-2025,Odisha,District-29,Debit Card Fraud,60+,Other,83824,FIR Registered,Bank
+CFI00151,09-12-2022,Himachal Pradesh,District-10,Lottery Scam,36-45,Other,132123,No Action,Self Report
+CFI00152,12-02-2022,Haryana,District-28,Online Shopping Scam,Under 18,Male,200944,Resolved,Self Report
+CFI00153,23-03-2024,Kerala,District-23,Debit Card Fraud,Under 18,Other,208516,Complaint Filed,Local Police
+CFI00154,05-03-2024,Karnataka,District-30,Job Scam,60+,Female,437647,Complaint Filed,Cyber Cell
+CFI00155,28-05-2024,Punjab,District-8,Lottery Scam,18-25,Other,132400,Under Investigation,Local Police
+CFI00156,09-07-2024,Karnataka,District-10,Ransomware,36-45,Male,304863,Complaint Filed,Cyber Cell
+CFI00157,04-07-2021,Kerala,District-11,Social Media Hacking,36-45,Male,106274,Under Investigation,Helpline
+CFI00158,30-11-2025,Punjab,District-17,Investment Scam,26-35,Male,135726,No Action,Self Report
+CFI00159,09-03-2025,Madhya Pradesh,District-26,OTP Fraud,36-45,Male,74797,Under Investigation,Bank
+CFI00160,29-09-2025,Chhattisgarh,District-12,OTP Fraud,36-45,Male,139652,Resolved,Local Police
+CFI00161,21-07-2023,Punjab,District-22,Social Media Hacking,60+,Female,307477,No Action,Self Report
+CFI00162,10-08-2021,Rajasthan,District-16,Phishing,46-60,Other,172969,Resolved,Cyber Cell
+CFI00163,19-08-2024,Tamil Nadu,District-21,Data Breach,36-45,Other,159434,No Action,Local Police
+CFI00164,14-10-2021,Karnataka,District-2,Debit Card Fraud,36-45,Male,51956,Under Investigation,Helpline
+CFI00165,05-10-2021,Haryana,District-15,Identity Theft,60+,Other,366158,Resolved,Bank
+CFI00166,17-04-2024,Delhi,District-29,SIM Swap,60+,Male,438095,No Action,Helpline
+CFI00167,16-04-2023,Telangana,District-2,Social Media Hacking,26-35,Male,233460,No Action,Cyber Cell
+CFI00168,18-10-2025,Punjab,District-4,Lottery Scam,26-35,Other,473748,Complaint Filed,Local Police
+CFI00169,27-03-2023,Telangana,District-7,OTP Fraud,36-45,Male,348481,Under Investigation,Helpline
+CFI00170,13-02-2021,Karnataka,District-26,Identity Theft,18-25,Male,413603,Resolved,Cyber Cell
+CFI00171,21-05-2021,Chhattisgarh,District-7,Job Scam,18-25,Male,173259,Under Investigation,Helpline
+CFI00172,06-01-2021,Telangana,District-28,UPI Fraud,18-25,Other,132414,Under Investigation,Local Police
+CFI00173,15-09-2024,Maharashtra,District-5,Phishing,26-35,Male,309728,Complaint Filed,Local Police
+CFI00174,23-12-2021,Telangana,District-2,UPI Fraud,60+,Female,276820,FIR Registered,Local Police
+CFI00175,03-09-2023,Odisha,District-25,Identity Theft,46-60,Other,58175,No Action,Helpline
+CFI00176,30-03-2022,Uttarakhand,District-2,Social Media Hacking,60+,Other,159141,No Action,Local Police
+CFI00177,05-05-2021,Assam,District-28,SIM Swap,36-45,Other,57603,No Action,Bank
+CFI00178,31-05-2021,Tamil Nadu,District-11,Job Scam,18-25,Male,67160,Complaint Filed,Helpline
+CFI00179,20-07-2024,Himachal Pradesh,District-18,Social Media Hacking,26-35,Female,314205,Resolved,Self Report
+CFI00180,19-07-2023,Jharkhand,District-20,SIM Swap,Under 18,Other,60985,Resolved,Cyber Cell
+CFI00181,31-05-2023,Odisha,District-29,Credit Card Fraud,36-45,Female,434805,No Action,Bank
+CFI00182,02-05-2023,Uttar Pradesh,District-11,SIM Swap,26-35,Other,134635,Complaint Filed,Cyber Cell
+CFI00183,07-11-2024,Assam,District-3,OTP Fraud,Under 18,Male,227427,FIR Registered,Self Report
+CFI00184,21-07-2025,Delhi,District-18,Phishing,46-60,Other,295483,Complaint Filed,Local Police
+CFI00185,22-04-2023,Punjab,District-28,Lottery Scam,36-45,Other,27972,Complaint Filed,Helpline
+CFI00186,02-10-2022,Punjab,District-4,Job Scam,46-60,Male,82123,No Action,Cyber Cell
+CFI00187,02-10-2025,Uttar Pradesh,District-12,Data Breach,46-60,Female,61232,Complaint Filed,Helpline
+CFI00188,09-04-2022,Bihar,District-28,Investment Scam,46-60,Other,354882,Resolved,Local Police
+CFI00189,01-06-2024,Telangana,District-1,UPI Fraud,26-35,Other,400722,Complaint Filed,Self Report
+CFI00190,20-12-2022,Maharashtra,District-6,Data Breach,18-25,Other,345637,No Action,Local Police
+CFI00191,18-10-2021,Maharashtra,District-3,Social Media Hacking,46-60,Male,198234,No Action,Bank
+CFI00192,30-11-2022,Gujarat,District-12,Debit Card Fraud,60+,Female,408285,Resolved,Helpline
+CFI00193,23-06-2021,Karnataka,District-5,UPI Fraud,46-60,Male,354353,FIR Registered,Self Report
+CFI00194,27-06-2023,Bihar,District-16,Job Scam,36-45,Female,144218,Under Investigation,Helpline
+CFI00195,22-08-2021,Punjab,District-14,OTP Fraud,26-35,Other,356722,Resolved,Bank
+CFI00196,16-12-2023,Kerala,District-2,Credit Card Fraud,36-45,Other,29721,FIR Registered,Cyber Cell
+CFI00197,10-09-2022,West Bengal,District-25,UPI Fraud,26-35,Female,173030,FIR Registered,Local Police
+CFI00198,16-10-2023,Bihar,District-6,UPI Fraud,36-45,Other,369926,Under Investigation,Helpline
+CFI00199,19-02-2024,Punjab,District-3,SIM Swap,60+,Male,229704,FIR Registered,Bank
+CFI00200,09-06-2021,Madhya Pradesh,District-19,SIM Swap,46-60,Female,372981,No Action,Self Report
+CFI00201,24-08-2021,Haryana,District-1,Identity Theft,18-25,Other,242223,Complaint Filed,Local Police
+CFI00202,14-06-2023,Uttar Pradesh,District-8,SIM Swap,46-60,Female,275707,FIR Registered,Bank
+CFI00203,18-11-2025,Kerala,District-24,Identity Theft,18-25,Female,409482,Under Investigation,Local Police
+CFI00204,12-11-2023,Uttar Pradesh,District-17,Investment Scam,18-25,Female,185077,Under Investigation,Cyber Cell
+CFI00205,30-07-2021,Delhi,District-9,Credit Card Fraud,18-25,Other,81147,FIR Registered,Cyber Cell
+CFI00206,02-05-2025,Assam,District-15,Ransomware,46-60,Other,236355,Resolved,Helpline
+CFI00207,24-10-2022,Madhya Pradesh,District-5,Online Shopping Scam,Under 18,Female,232844,Complaint Filed,Self Report
+CFI00208,26-04-2024,Karnataka,District-12,Investment Scam,Under 18,Female,243086,No Action,Local Police
+CFI00209,27-04-2021,Punjab,District-27,Debit Card Fraud,Under 18,Other,454115,FIR Registered,Helpline
+CFI00210,01-05-2024,Jharkhand,District-13,Online Shopping Scam,46-60,Other,416140,FIR Registered,Bank
+CFI00211,17-07-2025,Himachal Pradesh,District-21,Credit Card Fraud,26-35,Other,250366,Resolved,Cyber Cell
+CFI00212,07-05-2021,Odisha,District-4,Ransomware,26-35,Other,45212,Resolved,Cyber Cell
+CFI00213,22-03-2021,Rajasthan,District-23,Online Shopping Scam,36-45,Other,275070,Resolved,Cyber Cell
+CFI00214,16-01-2023,Punjab,District-30,Debit Card Fraud,36-45,Female,407042,Complaint Filed,Helpline
+CFI00215,18-04-2021,Madhya Pradesh,District-3,Identity Theft,Under 18,Other,356666,No Action,Self Report
+CFI00216,01-06-2022,Uttarakhand,District-28,UPI Fraud,26-35,Male,306523,Under Investigation,Self Report
+CFI00217,28-09-2022,Haryana,District-5,Job Scam,60+,Male,163310,Resolved,Bank
+CFI00218,10-08-2024,Madhya Pradesh,District-27,UPI Fraud,60+,Other,435613,Resolved,Local Police
+CFI00219,16-08-2024,Bihar,District-17,Identity Theft,Under 18,Female,162934,Under Investigation,Cyber Cell
+CFI00220,01-12-2022,Assam,District-7,Credit Card Fraud,18-25,Male,41456,Complaint Filed,Local Police
+CFI00221,06-11-2023,Chhattisgarh,District-27,Social Media Hacking,46-60,Male,348041,Complaint Filed,Helpline
+CFI00222,26-09-2021,Uttarakhand,District-13,UPI Fraud,18-25,Male,436864,Resolved,Cyber Cell
+CFI00223,16-01-2025,Odisha,District-2,SIM Swap,26-35,Other,378270,Under Investigation,Bank
+CFI00224,04-06-2024,Kerala,District-25,Social Media Hacking,36-45,Male,280975,Under Investigation,Self Report
+CFI00225,15-07-2025,Assam,District-29,Data Breach,18-25,Female,356628,Resolved,Bank
+CFI00226,04-08-2023,Kerala,District-25,SIM Swap,46-60,Other,220498,Under Investigation,Cyber Cell
+CFI00227,29-06-2025,Uttarakhand,District-5,Data Breach,26-35,Male,337162,No Action,Self Report
+CFI00228,10-02-2024,Uttar Pradesh,District-23,Data Breach,46-60,Male,150455,FIR Registered,Cyber Cell
+CFI00229,13-07-2022,Odisha,District-29,Investment Scam,18-25,Female,49084,Under Investigation,Bank
+CFI00230,17-12-2025,Punjab,District-30,Phishing,36-45,Male,208856,Resolved,Self Report
+CFI00231,28-04-2022,Haryana,District-3,Identity Theft,18-25,Male,168082,FIR Registered,Self Report
+CFI00232,09-06-2025,Delhi,District-5,Phishing,26-35,Female,365942,Under Investigation,Bank
+CFI00233,08-07-2023,Uttarakhand,District-1,OTP Fraud,Under 18,Female,114065,Under Investigation,Helpline
+CFI00234,29-01-2025,Uttarakhand,District-17,SIM Swap,Under 18,Female,125591,Complaint Filed,Local Police
+CFI00235,08-04-2021,Rajasthan,District-14,Lottery Scam,46-60,Female,33929,FIR Registered,Bank
+CFI00236,07-05-2024,Chhattisgarh,District-1,Lottery Scam,46-60,Other,127845,Under Investigation,Self Report
+CFI00237,30-05-2023,Maharashtra,District-20,Identity Theft,18-25,Other,219401,Under Investigation,Local Police
+CFI00238,09-12-2023,Punjab,District-3,Investment Scam,46-60,Other,413306,Resolved,Helpline
+CFI00239,11-02-2021,Haryana,District-28,Online Shopping Scam,Under 18,Other,203837,Complaint Filed,Self Report
+CFI00240,11-03-2025,Maharashtra,District-12,Ransomware,Under 18,Female,127419,FIR Registered,Helpline
+CFI00241,14-02-2025,Madhya Pradesh,District-5,Phishing,26-35,Other,178496,Under Investigation,Bank
+CFI00242,25-11-2024,Assam,District-21,UPI Fraud,18-25,Male,376413,No Action,Local Police
+CFI00243,24-08-2022,West Bengal,District-2,Ransomware,18-25,Male,166463,Complaint Filed,Helpline
+CFI00244,27-03-2023,Chhattisgarh,District-16,Debit Card Fraud,Under 18,Other,101193,Complaint Filed,Self Report
+CFI00245,01-11-2025,Karnataka,District-28,Lottery Scam,26-35,Female,66260,Complaint Filed,Bank
+CFI00246,27-12-2025,Haryana,District-24,Online Shopping Scam,36-45,Female,98946,No Action,Bank
+CFI00247,23-01-2023,Jharkhand,District-9,Ransomware,Under 18,Other,223560,FIR Registered,Bank
+CFI00248,18-05-2024,Gujarat,District-18,Debit Card Fraud,26-35,Male,42979,Complaint Filed,Self Report
+CFI00249,20-09-2022,Odisha,District-20,Social Media Hacking,36-45,Male,362635,No Action,Self Report
+CFI00250,05-07-2023,Karnataka,District-24,Data Breach,26-35,Other,229034,Complaint Filed,Local Police
+CFI00251,03-06-2021,Haryana,District-12,Investment Scam,60+,Other,84879,FIR Registered,Cyber Cell
+CFI00252,05-10-2025,Uttarakhand,District-22,Ransomware,36-45,Male,67180,FIR Registered,Cyber Cell
+CFI00253,14-05-2025,Punjab,District-12,SIM Swap,46-60,Male,318243,Under Investigation,Bank
+CFI00254,30-01-2023,Punjab,District-15,Ransomware,Under 18,Other,73191,Resolved,Self Report
+CFI00255,27-03-2023,Madhya Pradesh,District-21,Debit Card Fraud,18-25,Male,14586,Under Investigation,Bank
+CFI00256,27-11-2023,Haryana,District-30,Investment Scam,Under 18,Female,407304,Complaint Filed,Bank
+CFI00257,16-03-2022,Uttarakhand,District-10,Social Media Hacking,36-45,Male,65297,Under Investigation,Local Police
+CFI00258,15-07-2023,Gujarat,District-29,Social Media Hacking,36-45,Male,425942,Complaint Filed,Self Report
+CFI00259,24-12-2024,Tamil Nadu,District-18,Investment Scam,26-35,Female,447358,Under Investigation,Cyber Cell
+CFI00260,14-06-2025,Punjab,District-17,Credit Card Fraud,Under 18,Male,416270,Under Investigation,Cyber Cell
+CFI00261,07-06-2025,Assam,District-1,Identity Theft,46-60,Other,194415,No Action,Helpline
+CFI00262,23-09-2021,Uttarakhand,District-29,OTP Fraud,Under 18,Female,209750,No Action,Helpline
+CFI00263,22-04-2023,Bihar,District-27,Job Scam,Under 18,Male,167213,FIR Registered,Bank
+CFI00264,13-08-2023,Jharkhand,District-12,UPI Fraud,46-60,Other,309169,Under Investigation,Cyber Cell
+CFI00265,06-06-2023,Jharkhand,District-30,Data Breach,Under 18,Male,272634,Under Investigation,Self Report
+CFI00266,04-12-2021,Gujarat,District-11,Social Media Hacking,18-25,Female,497754,Resolved,Self Report
+CFI00267,29-09-2025,Tamil Nadu,District-9,Credit Card Fraud,60+,Other,144891,Under Investigation,Self Report
+CFI00268,12-06-2024,Chhattisgarh,District-3,Investment Scam,60+,Male,311278,Resolved,Cyber Cell
+CFI00269,17-12-2021,Uttarakhand,District-24,Job Scam,26-35,Other,22597,FIR Registered,Local Police
+CFI00270,04-04-2021,Himachal Pradesh,District-9,Lottery Scam,18-25,Other,219411,Resolved,Local Police
+CFI00271,17-10-2023,Chhattisgarh,District-10,Lottery Scam,26-35,Female,129386,No Action,Self Report
+CFI00272,18-07-2023,Tamil Nadu,District-23,Phishing,18-25,Female,218905,No Action,Bank
+CFI00273,22-02-2022,Madhya Pradesh,District-20,UPI Fraud,26-35,Other,168413,Complaint Filed,Bank
+CFI00274,25-09-2021,Punjab,District-17,Investment Scam,Under 18,Female,127740,No Action,Local Police
+CFI00275,02-07-2022,Odisha,District-8,UPI Fraud,Under 18,Male,153154,No Action,Helpline
+CFI00276,07-05-2023,Rajasthan,District-28,UPI Fraud,26-35,Other,379078,Complaint Filed,Cyber Cell
+CFI00277,12-04-2025,Gujarat,District-16,Investment Scam,36-45,Female,461888,Complaint Filed,Bank
+CFI00278,17-02-2021,Tamil Nadu,District-13,Investment Scam,36-45,Male,113797,Resolved,Self Report
+CFI00279,10-04-2021,Karnataka,District-10,Online Shopping Scam,46-60,Other,353594,No Action,Self Report
+CFI00280,05-01-2024,Maharashtra,District-28,OTP Fraud,36-45,Male,463660,Complaint Filed,Self Report
+CFI00281,14-04-2025,Haryana,District-12,Phishing,36-45,Male,299991,Resolved,Cyber Cell
+CFI00282,13-01-2023,Chhattisgarh,District-10,OTP Fraud,36-45,Other,237115,Resolved,Self Report
+CFI00283,18-08-2025,Uttarakhand,District-22,Job Scam,Under 18,Male,51688,No Action,Self Report
+CFI00284,16-06-2025,Madhya Pradesh,District-18,Identity Theft,18-25,Male,316864,Resolved,Bank
+CFI00285,22-10-2023,Karnataka,District-2,Phishing,18-25,Other,175609,No Action,Helpline
+CFI00286,25-07-2023,Delhi,District-20,Investment Scam,18-25,Female,489305,Resolved,Self Report
+CFI00287,29-11-2021,Haryana,District-20,Social Media Hacking,26-35,Other,177356,Resolved,Helpline
+CFI00288,27-12-2023,Assam,District-23,Job Scam,26-35,Female,428687,FIR Registered,Self Report
+CFI00289,10-11-2022,Uttar Pradesh,District-14,Job Scam,26-35,Other,458231,FIR Registered,Helpline
+CFI00290,30-08-2023,Telangana,District-21,Ransomware,46-60,Other,120298,FIR Registered,Helpline
+CFI00291,11-09-2023,Gujarat,District-17,Lottery Scam,60+,Other,407116,No Action,Cyber Cell
+CFI00292,10-08-2025,Rajasthan,District-2,Job Scam,60+,Male,101025,FIR Registered,Bank
+CFI00293,05-10-2022,Bihar,District-5,SIM Swap,60+,Male,216155,Resolved,Helpline
+CFI00294,24-08-2023,Karnataka,District-23,UPI Fraud,46-60,Male,295066,Complaint Filed,Bank
+CFI00295,13-12-2023,Haryana,District-11,UPI Fraud,36-45,Other,180477,Resolved,Self Report
+CFI00296,16-10-2024,Telangana,District-20,Online Shopping Scam,18-25,Male,147279,Resolved,Self Report
+CFI00297,06-04-2022,Kerala,District-25,Debit Card Fraud,60+,Male,362884,No Action,Self Report
+CFI00298,10-09-2023,Punjab,District-18,Ransomware,60+,Female,151884,FIR Registered,Helpline
+CFI00299,17-10-2024,Chhattisgarh,District-13,SIM Swap,26-35,Male,153280,FIR Registered,Self Report
+CFI00300,02-01-2025,Tamil Nadu,District-12,Online Shopping Scam,60+,Female,392820,No Action,Cyber Cell
+CFI00301,18-02-2022,Chhattisgarh,District-9,Investment Scam,60+,Female,72970,FIR Registered,Helpline
+CFI00302,26-02-2025,Himachal Pradesh,District-8,Credit Card Fraud,Under 18,Other,475577,Resolved,Cyber Cell
+CFI00303,30-07-2024,Rajasthan,District-2,OTP Fraud,36-45,Female,377102,No Action,Local Police
+CFI00304,27-10-2024,Delhi,District-1,Investment Scam,18-25,Female,343303,No Action,Bank
+CFI00305,25-08-2024,West Bengal,District-25,Debit Card Fraud,26-35,Female,339636,FIR Registered,Local Police
+CFI00306,28-08-2024,Himachal Pradesh,District-8,Investment Scam,60+,Other,446819,FIR Registered,Cyber Cell
+CFI00307,06-05-2023,Gujarat,District-30,Phishing,36-45,Female,98680,Complaint Filed,Local Police
+CFI00308,19-01-2021,Kerala,District-19,Job Scam,Under 18,Female,150192,No Action,Helpline
+CFI00309,10-12-2023,Assam,District-29,UPI Fraud,46-60,Female,144045,Under Investigation,Local Police
+CFI00310,09-11-2022,Gujarat,District-24,Online Shopping Scam,60+,Female,377752,Under Investigation,Local Police
+CFI00311,17-02-2025,Madhya Pradesh,District-26,Debit Card Fraud,46-60,Other,398034,Under Investigation,Cyber Cell
+CFI00312,05-06-2024,Haryana,District-27,SIM Swap,46-60,Female,46475,No Action,Local Police
+CFI00313,14-01-2022,Delhi,District-16,Identity Theft,18-25,Male,137726,No Action,Cyber Cell
+CFI00314,04-07-2023,Telangana,District-11,Debit Card Fraud,46-60,Other,301352,FIR Registered,Self Report
+CFI00315,31-08-2024,Punjab,District-23,Credit Card Fraud,Under 18,Other,62983,No Action,Self Report
+CFI00316,24-11-2021,Haryana,District-22,Investment Scam,60+,Female,362910,FIR Registered,Self Report
+CFI00317,23-01-2023,Uttarakhand,District-8,Credit Card Fraud,18-25,Female,81313,No Action,Helpline
+CFI00318,05-02-2023,Bihar,District-23,Investment Scam,36-45,Other,421476,Under Investigation,Cyber Cell
+CFI00319,25-10-2024,Uttarakhand,District-28,Ransomware,Under 18,Other,235224,Resolved,Self Report
+CFI00320,09-06-2021,Himachal Pradesh,District-4,Phishing,46-60,Other,106988,Resolved,Helpline
+CFI00321,03-11-2021,Gujarat,District-11,Data Breach,46-60,Female,61943,Under Investigation,Helpline
+CFI00322,29-09-2023,Tamil Nadu,District-29,Investment Scam,36-45,Male,238729,Under Investigation,Helpline
+CFI00323,01-05-2023,Odisha,District-19,Phishing,46-60,Female,353724,Complaint Filed,Local Police
+CFI00324,22-03-2023,Telangana,District-27,Phishing,60+,Male,304201,FIR Registered,Local Police
+CFI00325,18-05-2023,Punjab,District-23,OTP Fraud,46-60,Male,490990,FIR Registered,Bank
+CFI00326,06-03-2021,Kerala,District-14,UPI Fraud,18-25,Other,383357,No Action,Self Report
+CFI00327,31-12-2025,Haryana,District-15,Data Breach,36-45,Female,43074,Resolved,Cyber Cell
+CFI00328,31-08-2024,Punjab,District-4,UPI Fraud,46-60,Female,278265,Under Investigation,Cyber Cell
+CFI00329,06-09-2025,Maharashtra,District-25,Phishing,26-35,Female,354107,Resolved,Bank
+CFI00330,26-12-2023,Haryana,District-27,Credit Card Fraud,18-25,Female,182487,Under Investigation,Self Report
+CFI00331,22-01-2022,Uttar Pradesh,District-2,Ransomware,60+,Female,323396,FIR Registered,Cyber Cell
+CFI00332,27-02-2022,Tamil Nadu,District-4,Job Scam,Under 18,Female,314411,FIR Registered,Cyber Cell
+CFI00333,25-02-2025,Karnataka,District-13,Online Shopping Scam,18-25,Other,114911,FIR Registered,Cyber Cell
+CFI00334,29-10-2023,Kerala,District-8,Data Breach,60+,Other,168197,Resolved,Helpline
+CFI00335,02-05-2025,Madhya Pradesh,District-8,Debit Card Fraud,18-25,Other,274285,Under Investigation,Bank
+CFI00336,08-09-2022,Telangana,District-2,Investment Scam,46-60,Other,478929,Under Investigation,Bank
+CFI00337,13-02-2024,Assam,District-2,Identity Theft,60+,Other,200834,Resolved,Self Report
+CFI00338,27-11-2024,Bihar,District-14,UPI Fraud,26-35,Female,97405,Resolved,Bank
+CFI00339,09-05-2022,Rajasthan,District-10,Data Breach,60+,Male,423458,No Action,Local Police
+CFI00340,26-02-2024,Bihar,District-14,Investment Scam,46-60,Male,204643,Under Investigation,Self Report
+CFI00341,21-02-2022,Madhya Pradesh,District-21,OTP Fraud,36-45,Female,49477,Resolved,Cyber Cell
+CFI00342,16-04-2021,Telangana,District-13,Lottery Scam,46-60,Other,21734,FIR Registered,Cyber Cell
+CFI00343,06-07-2025,Himachal Pradesh,District-24,Lottery Scam,46-60,Male,252340,Under Investigation,Self Report
+CFI00344,13-09-2022,Maharashtra,District-7,Credit Card Fraud,60+,Male,392579,No Action,Cyber Cell
+CFI00345,25-11-2024,Uttarakhand,District-23,Credit Card Fraud,36-45,Male,290448,Complaint Filed,Self Report
+CFI00346,19-02-2023,Odisha,District-18,Lottery Scam,26-35,Female,138133,Complaint Filed,Helpline
+CFI00347,13-12-2025,Assam,District-15,OTP Fraud,60+,Female,400312,Complaint Filed,Cyber Cell
+CFI00348,30-01-2023,Madhya Pradesh,District-14,Phishing,46-60,Male,389629,Under Investigation,Local Police
+CFI00349,19-06-2022,Chhattisgarh,District-30,Job Scam,46-60,Other,219931,Complaint Filed,Cyber Cell
+CFI00350,06-02-2022,Madhya Pradesh,District-8,SIM Swap,46-60,Male,262777,Resolved,Self Report
+CFI00351,12-06-2022,Assam,District-24,Lottery Scam,60+,Female,242607,Under Investigation,Self Report
+CFI00352,13-12-2021,Delhi,District-24,Investment Scam,36-45,Male,481719,Resolved,Local Police
+CFI00353,10-12-2023,Karnataka,District-27,Data Breach,Under 18,Other,26435,FIR Registered,Bank
+CFI00354,09-10-2021,Rajasthan,District-3,Social Media Hacking,18-25,Male,115672,Resolved,Bank
+CFI00355,04-02-2023,Karnataka,District-20,Lottery Scam,60+,Other,479544,No Action,Bank
+CFI00356,02-02-2021,Maharashtra,District-18,Investment Scam,36-45,Male,9769,Resolved,Self Report
+CFI00357,03-01-2024,Kerala,District-1,Investment Scam,60+,Other,226744,Under Investigation,Local Police
+CFI00358,17-07-2021,Jharkhand,District-5,Credit Card Fraud,18-25,Other,277014,Complaint Filed,Self Report
+CFI00359,02-07-2022,Haryana,District-3,Identity Theft,36-45,Female,297223,Under Investigation,Cyber Cell
+CFI00360,07-09-2022,Tamil Nadu,District-21,Data Breach,60+,Male,50021,No Action,Bank
+CFI00361,12-02-2023,Chhattisgarh,District-16,Phishing,60+,Male,369493,Under Investigation,Local Police
+CFI00362,21-10-2023,Bihar,District-21,Ransomware,26-35,Other,450818,FIR Registered,Helpline
+CFI00363,29-03-2021,Rajasthan,District-7,Data Breach,60+,Other,250299,Complaint Filed,Local Police
+CFI00364,02-06-2021,Telangana,District-29,Investment Scam,46-60,Other,18250,Under Investigation,Self Report
+CFI00365,02-02-2021,West Bengal,District-19,UPI Fraud,60+,Female,487997,FIR Registered,Self Report
+CFI00366,29-11-2021,Himachal Pradesh,District-8,Job Scam,36-45,Other,471037,Resolved,Self Report
+CFI00367,26-02-2023,Delhi,District-26,Social Media Hacking,60+,Male,263559,Complaint Filed,Local Police
+CFI00368,20-07-2021,Bihar,District-8,Data Breach,Under 18,Female,318282,Resolved,Helpline
+CFI00369,24-03-2023,Madhya Pradesh,District-1,Lottery Scam,26-35,Female,258217,Under Investigation,Self Report
+CFI00370,07-02-2024,Haryana,District-14,UPI Fraud,60+,Other,347382,No Action,Local Police
+CFI00371,01-05-2025,Uttarakhand,District-10,Ransomware,18-25,Other,39538,FIR Registered,Self Report
+CFI00372,12-11-2021,Haryana,District-23,Ransomware,60+,Male,388792,No Action,Self Report
+CFI00373,09-01-2023,Uttar Pradesh,District-3,Phishing,26-35,Female,189700,Complaint Filed,Local Police
+CFI00374,29-09-2021,Tamil Nadu,District-6,SIM Swap,36-45,Other,291843,Resolved,Bank
+CFI00375,31-07-2021,Maharashtra,District-3,Identity Theft,46-60,Male,313960,Resolved,Self Report
+CFI00376,04-11-2025,Haryana,District-1,Debit Card Fraud,36-45,Female,409509,FIR Registered,Helpline
+CFI00377,13-05-2022,Himachal Pradesh,District-17,UPI Fraud,60+,Female,89867,Under Investigation,Self Report
+CFI00378,09-09-2022,Telangana,District-16,UPI Fraud,Under 18,Male,228895,Complaint Filed,Bank
+CFI00379,06-09-2022,Assam,District-26,OTP Fraud,26-35,Female,496044,Under Investigation,Bank
+CFI00380,01-05-2024,Uttarakhand,District-7,Online Shopping Scam,Under 18,Male,160728,FIR Registered,Bank
+CFI00381,12-11-2022,Uttarakhand,District-13,Ransomware,26-35,Female,176498,No Action,Helpline
+CFI00382,06-10-2021,Kerala,District-11,Job Scam,60+,Male,252139,Complaint Filed,Cyber Cell
+CFI00383,27-03-2023,Madhya Pradesh,District-10,Social Media Hacking,60+,Other,258429,Resolved,Cyber Cell
+CFI00384,30-10-2022,Haryana,District-9,Data Breach,36-45,Female,60710,Resolved,Cyber Cell
+CFI00385,27-04-2024,Chhattisgarh,District-6,Lottery Scam,46-60,Male,382269,No Action,Cyber Cell
+CFI00386,17-06-2023,Kerala,District-27,Social Media Hacking,Under 18,Female,353834,No Action,Cyber Cell
+CFI00387,21-07-2024,Kerala,District-8,Debit Card Fraud,60+,Male,375989,No Action,Bank
+CFI00388,01-06-2021,Odisha,District-20,Online Shopping Scam,46-60,Female,281162,Resolved,Bank
+CFI00389,19-01-2024,Karnataka,District-26,Identity Theft,60+,Other,312332,FIR Registered,Local Police
+CFI00390,24-04-2025,Rajasthan,District-22,Lottery Scam,26-35,Male,340214,Resolved,Local Police
+CFI00391,28-02-2024,Haryana,District-25,Identity Theft,36-45,Male,6530,FIR Registered,Self Report
+CFI00392,31-03-2022,Jharkhand,District-24,Investment Scam,46-60,Other,361534,Resolved,Cyber Cell
+CFI00393,02-07-2023,Punjab,District-13,Online Shopping Scam,60+,Other,362987,Resolved,Cyber Cell
+CFI00394,08-12-2022,Maharashtra,District-16,OTP Fraud,26-35,Female,483632,FIR Registered,Local Police
+CFI00395,30-08-2025,Delhi,District-12,Debit Card Fraud,26-35,Female,412183,Under Investigation,Helpline
+CFI00396,17-09-2023,Punjab,District-16,OTP Fraud,36-45,Other,366304,No Action,Self Report
+CFI00397,18-05-2021,Kerala,District-2,Ransomware,60+,Male,12841,Complaint Filed,Local Police
+CFI00398,18-10-2024,Gujarat,District-30,Social Media Hacking,18-25,Other,92463,Resolved,Cyber Cell
+CFI00399,09-11-2022,Chhattisgarh,District-14,Online Shopping Scam,18-25,Female,331175,Under Investigation,Cyber Cell
+CFI00400,04-08-2024,Bihar,District-13,Phishing,60+,Other,463997,Under Investigation,Bank
+CFI00401,27-04-2024,Bihar,District-13,Phishing,60+,Male,108890,Complaint Filed,Local Police
+CFI00402,28-03-2024,Uttar Pradesh,District-26,Data Breach,46-60,Male,192780,Complaint Filed,Cyber Cell
+CFI00403,27-07-2023,Uttar Pradesh,District-9,Lottery Scam,36-45,Other,336076,Complaint Filed,Helpline
+CFI00404,07-03-2023,Uttarakhand,District-13,Job Scam,Under 18,Female,185541,No Action,Helpline
+CFI00405,20-12-2021,Kerala,District-30,Job Scam,46-60,Male,353379,Under Investigation,Self Report
+CFI00406,30-08-2021,Rajasthan,District-10,OTP Fraud,18-25,Female,364560,Under Investigation,Helpline
+CFI00407,07-03-2023,Bihar,District-20,UPI Fraud,46-60,Female,222794,Under Investigation,Bank
+CFI00408,25-07-2024,Chhattisgarh,District-23,Lottery Scam,18-25,Other,88485,No Action,Self Report
+CFI00409,15-10-2021,Gujarat,District-11,Data Breach,36-45,Other,29107,Complaint Filed,Local Police
+CFI00410,20-09-2023,Delhi,District-7,Data Breach,36-45,Other,265995,No Action,Bank
+CFI00411,03-11-2024,Assam,District-14,Social Media Hacking,36-45,Female,88688,FIR Registered,Helpline
+CFI00412,05-03-2021,Rajasthan,District-10,Phishing,26-35,Male,282861,Complaint Filed,Cyber Cell
+CFI00413,18-05-2025,Odisha,District-19,Social Media Hacking,36-45,Other,268809,FIR Registered,Helpline
+CFI00414,22-08-2021,Telangana,District-25,Investment Scam,26-35,Other,432285,FIR Registered,Bank
+CFI00415,24-01-2024,West Bengal,District-14,OTP Fraud,60+,Other,394921,Under Investigation,Self Report
+CFI00416,27-11-2025,Karnataka,District-15,Debit Card Fraud,26-35,Male,231199,FIR Registered,Cyber Cell
+CFI00417,06-03-2022,Himachal Pradesh,District-23,Identity Theft,60+,Other,332754,No Action,Cyber Cell
+CFI00418,15-06-2024,Delhi,District-26,Credit Card Fraud,18-25,Male,299883,Complaint Filed,Helpline
+CFI00419,30-07-2022,Uttarakhand,District-18,UPI Fraud,26-35,Other,154424,Complaint Filed,Helpline
+CFI00420,02-07-2022,Jharkhand,District-29,Lottery Scam,Under 18,Male,394265,No Action,Local Police
+CFI00421,22-07-2022,Delhi,District-23,Data Breach,18-25,Male,77673,Complaint Filed,Cyber Cell
+CFI00422,09-04-2025,Haryana,District-16,UPI Fraud,46-60,Other,141885,No Action,Bank
+CFI00423,15-07-2023,Tamil Nadu,District-21,Ransomware,Under 18,Female,271329,Complaint Filed,Self Report
+CFI00424,21-07-2023,Assam,District-11,Job Scam,Under 18,Other,49833,No Action,Self Report
+CFI00425,08-10-2025,Tamil Nadu,District-26,Investment Scam,36-45,Male,226256,Under Investigation,Bank
+CFI00426,04-07-2022,Madhya Pradesh,District-27,Debit Card Fraud,26-35,Other,304003,Under Investigation,Helpline
+CFI00427,12-10-2025,Assam,District-26,Identity Theft,60+,Male,25087,FIR Registered,Bank
+CFI00428,03-02-2021,Uttar Pradesh,District-30,Data Breach,18-25,Female,240346,FIR Registered,Bank
+CFI00429,19-02-2022,Delhi,District-29,Lottery Scam,26-35,Male,459449,Complaint Filed,Local Police
+CFI00430,02-09-2024,Punjab,District-9,OTP Fraud,26-35,Other,474851,Under Investigation,Local Police
+CFI00431,23-03-2023,Kerala,District-24,Social Media Hacking,18-25,Female,344663,FIR Registered,Local Police
+CFI00432,03-01-2021,West Bengal,District-16,OTP Fraud,18-25,Other,119589,Resolved,Bank
+CFI00433,20-01-2021,Maharashtra,District-23,Identity Theft,Under 18,Female,364872,Under Investigation,Bank
+CFI00434,26-05-2021,Rajasthan,District-13,OTP Fraud,60+,Male,55107,Complaint Filed,Self Report
+CFI00435,10-12-2025,Kerala,District-5,SIM Swap,18-25,Other,356014,Under Investigation,Local Police
+CFI00436,23-12-2023,Himachal Pradesh,District-1,Job Scam,60+,Male,231738,Complaint Filed,Cyber Cell
+CFI00437,10-07-2024,Delhi,District-30,SIM Swap,46-60,Other,232936,Under Investigation,Local Police
+CFI00438,25-07-2021,Delhi,District-25,OTP Fraud,46-60,Other,202343,Complaint Filed,Bank
+CFI00439,07-10-2022,Delhi,District-8,Debit Card Fraud,60+,Male,131110,Resolved,Helpline
+CFI00440,13-05-2024,Uttarakhand,District-10,Ransomware,60+,Male,445539,Complaint Filed,Cyber Cell
+CFI00441,27-11-2023,Uttarakhand,District-17,Credit Card Fraud,60+,Female,155949,FIR Registered,Cyber Cell
+CFI00442,11-10-2023,Haryana,District-4,Credit Card Fraud,36-45,Other,312390,FIR Registered,Helpline
+CFI00443,26-12-2025,Maharashtra,District-12,Identity Theft,18-25,Female,452314,Resolved,Bank
+CFI00444,19-01-2023,Chhattisgarh,District-22,UPI Fraud,36-45,Male,9750,Resolved,Local Police
+CFI00445,29-01-2021,Telangana,District-7,Phishing,Under 18,Female,266609,Complaint Filed,Helpline
+CFI00446,21-04-2025,Bihar,District-14,Social Media Hacking,36-45,Male,336826,Resolved,Helpline
+CFI00447,15-06-2024,Delhi,District-9,OTP Fraud,26-35,Male,269070,Under Investigation,Cyber Cell
+CFI00448,04-01-2024,Madhya Pradesh,District-13,Job Scam,60+,Other,358069,FIR Registered,Self Report
+CFI00449,01-12-2024,Bihar,District-24,Data Breach,18-25,Male,129177,FIR Registered,Bank
+CFI00450,26-08-2021,Odisha,District-20,Job Scam,Under 18,Female,350217,Under Investigation,Local Police
+CFI00451,26-01-2021,Delhi,District-23,Phishing,18-25,Female,182773,Resolved,Helpline
+CFI00452,23-05-2025,Telangana,District-6,Identity Theft,18-25,Other,410533,Complaint Filed,Local Police
+CFI00453,29-04-2025,Maharashtra,District-11,Ransomware,36-45,Female,275650,FIR Registered,Self Report
+CFI00454,29-12-2024,Himachal Pradesh,District-21,OTP Fraud,36-45,Female,268796,Complaint Filed,Local Police
+CFI00455,21-10-2023,Himachal Pradesh,District-6,Identity Theft,18-25,Female,406447,FIR Registered,Helpline
+CFI00456,12-10-2024,Uttar Pradesh,District-8,Social Media Hacking,46-60,Male,24088,FIR Registered,Cyber Cell
+CFI00457,05-04-2021,Assam,District-12,SIM Swap,18-25,Male,489196,FIR Registered,Helpline
+CFI00458,03-07-2025,Bihar,District-8,Identity Theft,18-25,Female,481171,Complaint Filed,Self Report
+CFI00459,19-08-2025,Tamil Nadu,District-19,Identity Theft,Under 18,Other,354016,FIR Registered,Cyber Cell
+CFI00460,03-04-2022,Jharkhand,District-2,SIM Swap,Under 18,Female,455050,Complaint Filed,Self Report
+CFI00461,02-11-2022,Tamil Nadu,District-18,Online Shopping Scam,Under 18,Female,106209,Complaint Filed,Helpline
+CFI00462,26-05-2025,Kerala,District-24,Job Scam,18-25,Female,194081,Resolved,Bank
+CFI00463,02-05-2025,West Bengal,District-24,Investment Scam,18-25,Male,4343,No Action,Local Police
+CFI00464,23-04-2022,Chhattisgarh,District-12,Lottery Scam,60+,Male,499592,Complaint Filed,Local Police
+CFI00465,04-04-2025,Haryana,District-28,Social Media Hacking,60+,Female,55499,Under Investigation,Helpline
+CFI00466,03-05-2022,Bihar,District-16,Phishing,18-25,Other,147709,FIR Registered,Local Police
+CFI00467,20-04-2022,Jharkhand,District-14,Social Media Hacking,26-35,Female,393114,FIR Registered,Helpline
+CFI00468,15-07-2021,Jharkhand,District-5,Lottery Scam,36-45,Male,311323,Resolved,Local Police
+CFI00469,10-06-2023,Delhi,District-8,Debit Card Fraud,26-35,Female,486512,No Action,Self Report
+CFI00470,14-10-2022,Odisha,District-9,Credit Card Fraud,Under 18,Male,72361,Resolved,Local Police
+CFI00471,15-11-2021,Uttar Pradesh,District-6,Online Shopping Scam,36-45,Female,214129,FIR Registered,Helpline
+CFI00472,04-01-2023,West Bengal,District-15,Debit Card Fraud,36-45,Female,447946,FIR Registered,Local Police
+CFI00473,19-11-2021,Kerala,District-27,Social Media Hacking,60+,Other,22144,Under Investigation,Self Report
+CFI00474,31-10-2021,Tamil Nadu,District-23,Credit Card Fraud,26-35,Female,270200,FIR Registered,Self Report
+CFI00475,17-06-2022,Gujarat,District-1,SIM Swap,36-45,Other,393208,Resolved,Cyber Cell
+CFI00476,13-07-2021,Odisha,District-4,Ransomware,18-25,Male,7268,FIR Registered,Cyber Cell
+CFI00477,25-09-2021,West Bengal,District-27,SIM Swap,26-35,Other,331457,FIR Registered,Helpline
+CFI00478,15-04-2024,Telangana,District-30,Data Breach,Under 18,Male,34801,Under Investigation,Bank
+CFI00479,16-07-2025,Delhi,District-3,Data Breach,26-35,Male,23385,No Action,Local Police
+CFI00480,11-12-2021,Himachal Pradesh,District-14,Data Breach,60+,Female,261113,FIR Registered,Bank
+CFI00481,31-10-2024,Bihar,District-6,Identity Theft,18-25,Male,145169,Complaint Filed,Bank
+CFI00482,15-12-2025,Delhi,District-2,Job Scam,46-60,Other,129862,Complaint Filed,Bank
+CFI00483,24-04-2023,Chhattisgarh,District-16,Phishing,Under 18,Female,201810,Under Investigation,Bank
+CFI00484,13-02-2022,Jharkhand,District-8,Lottery Scam,46-60,Male,201539,Complaint Filed,Bank
+CFI00485,21-01-2024,Assam,District-12,Job Scam,46-60,Female,204623,Complaint Filed,Cyber Cell
+CFI00486,23-02-2021,Madhya Pradesh,District-20,Credit Card Fraud,Under 18,Female,31718,No Action,Helpline
+CFI00487,03-01-2023,Himachal Pradesh,District-8,UPI Fraud,Under 18,Male,345386,Under Investigation,Self Report
+CFI00488,29-12-2023,Karnataka,District-25,Credit Card Fraud,46-60,Female,187019,Under Investigation,Cyber Cell
+CFI00489,30-04-2022,Himachal Pradesh,District-11,Ransomware,60+,Other,189105,Resolved,Local Police
+CFI00490,11-12-2024,Punjab,District-19,Job Scam,18-25,Other,498218,Under Investigation,Bank
+CFI00491,16-01-2024,Kerala,District-6,Online Shopping Scam,Under 18,Male,30448,Under Investigation,Helpline
+CFI00492,25-03-2022,Maharashtra,District-17,Online Shopping Scam,Under 18,Female,482241,Resolved,Cyber Cell
+CFI00493,10-07-2025,Delhi,District-11,Social Media Hacking,18-25,Female,32224,FIR Registered,Cyber Cell
+CFI00494,16-04-2024,Delhi,District-25,OTP Fraud,46-60,Female,39027,Complaint Filed,Bank
+CFI00495,15-04-2024,Uttar Pradesh,District-11,Debit Card Fraud,26-35,Male,83577,No Action,Bank
+CFI00496,22-08-2024,Madhya Pradesh,District-6,Social Media Hacking,46-60,Other,467406,Resolved,Self Report
+CFI00497,03-04-2022,Himachal Pradesh,District-27,UPI Fraud,36-45,Female,385824,Complaint Filed,Cyber Cell
+CFI00498,30-12-2021,Maharashtra,District-23,Job Scam,36-45,Other,17977,Under Investigation,Helpline
+CFI00499,14-10-2022,Uttarakhand,District-8,Lottery Scam,46-60,Male,492094,No Action,Cyber Cell
+CFI00500,10-11-2022,Tamil Nadu,District-8,Identity Theft,26-35,Male,334545,FIR Registered,Self Report
+CFI00501,04-07-2023,Maharashtra,District-9,Credit Card Fraud,18-25,Other,36543,Complaint Filed,Self Report
+CFI00502,31-05-2025,Uttar Pradesh,District-24,Phishing,Under 18,Female,230753,No Action,Cyber Cell
+CFI00503,17-12-2025,Bihar,District-16,SIM Swap,26-35,Other,197790,FIR Registered,Bank
+CFI00504,04-06-2025,Himachal Pradesh,District-21,Ransomware,60+,Male,86278,No Action,Local Police
+CFI00505,25-06-2025,Karnataka,District-10,Phishing,26-35,Female,499945,FIR Registered,Local Police
+CFI00506,02-12-2022,Gujarat,District-29,SIM Swap,18-25,Other,40322,Resolved,Local Police
+CFI00507,24-11-2022,Uttarakhand,District-20,Online Shopping Scam,60+,Male,227137,Under Investigation,Helpline
+CFI00508,28-12-2025,Bihar,District-6,Phishing,Under 18,Female,108767,Under Investigation,Bank
+CFI00509,28-11-2024,Chhattisgarh,District-24,Social Media Hacking,46-60,Female,347343,Complaint Filed,Self Report
+CFI00510,02-05-2022,Uttar Pradesh,District-2,SIM Swap,46-60,Other,441325,No Action,Cyber Cell
+CFI00511,22-04-2021,Punjab,District-1,SIM Swap,Under 18,Female,432959,Resolved,Bank
+CFI00512,13-02-2022,Uttar Pradesh,District-1,Credit Card Fraud,18-25,Other,153993,FIR Registered,Bank
+CFI00513,25-09-2025,Uttar Pradesh,District-10,Ransomware,36-45,Female,257427,Complaint Filed,Local Police
+CFI00514,07-08-2024,Chhattisgarh,District-13,UPI Fraud,26-35,Female,194672,Under Investigation,Bank
+CFI00515,02-04-2021,Telangana,District-15,Online Shopping Scam,26-35,Male,439870,Complaint Filed,Helpline
+CFI00516,07-05-2021,Delhi,District-25,Social Media Hacking,60+,Male,45935,Complaint Filed,Helpline
+CFI00517,28-04-2023,Himachal Pradesh,District-8,Investment Scam,Under 18,Female,430080,Resolved,Bank
+CFI00518,02-01-2024,Assam,District-19,Credit Card Fraud,36-45,Female,42395,No Action,Local Police
+CFI00519,26-10-2023,Himachal Pradesh,District-29,Investment Scam,46-60,Other,326201,Under Investigation,Local Police
+CFI00520,31-03-2025,Odisha,District-6,UPI Fraud,18-25,Male,67157,FIR Registered,Bank
+CFI00521,10-06-2021,Bihar,District-7,Data Breach,60+,Male,438312,Resolved,Self Report
+CFI00522,17-10-2022,Tamil Nadu,District-3,SIM Swap,46-60,Female,290435,Complaint Filed,Self Report
+CFI00523,01-12-2023,Odisha,District-30,Data Breach,Under 18,Other,327661,Resolved,Helpline
+CFI00524,20-05-2025,Bihar,District-4,SIM Swap,18-25,Male,298058,Resolved,Helpline
+CFI00525,03-04-2025,Uttar Pradesh,District-30,OTP Fraud,46-60,Male,412957,Complaint Filed,Helpline
+CFI00526,08-12-2025,Punjab,District-29,SIM Swap,26-35,Female,344297,No Action,Helpline
+CFI00527,01-06-2024,Assam,District-2,UPI Fraud,26-35,Female,76420,Resolved,Helpline
+CFI00528,26-10-2024,Haryana,District-2,SIM Swap,26-35,Other,125559,FIR Registered,Bank
+CFI00529,05-07-2022,Punjab,District-1,Identity Theft,26-35,Female,147982,No Action,Local Police
+CFI00530,15-11-2025,Rajasthan,District-5,Debit Card Fraud,60+,Female,406815,Complaint Filed,Self Report
+CFI00531,01-02-2025,Bihar,District-20,Lottery Scam,Under 18,Male,232586,Under Investigation,Bank
+CFI00532,26-02-2025,Assam,District-25,Investment Scam,26-35,Male,271149,Under Investigation,Local Police
+CFI00533,30-09-2022,Jharkhand,District-13,UPI Fraud,46-60,Other,16177,Under Investigation,Cyber Cell
+CFI00534,28-11-2025,West Bengal,District-27,Phishing,18-25,Male,240310,FIR Registered,Self Report
+CFI00535,14-12-2024,West Bengal,District-9,Identity Theft,36-45,Other,209112,FIR Registered,Local Police
+CFI00536,11-05-2022,Punjab,District-16,Job Scam,36-45,Male,457382,No Action,Helpline
+CFI00537,04-02-2024,Punjab,District-12,UPI Fraud,26-35,Other,436615,FIR Registered,Self Report
+CFI00538,26-02-2021,Haryana,District-2,UPI Fraud,46-60,Male,450373,Under Investigation,Cyber Cell
+CFI00539,19-10-2024,West Bengal,District-9,Lottery Scam,36-45,Other,11513,FIR Registered,Bank
+CFI00540,28-09-2021,Gujarat,District-20,Ransomware,Under 18,Male,133325,Resolved,Self Report
+CFI00541,30-12-2024,Telangana,District-14,SIM Swap,26-35,Female,133119,Under Investigation,Bank
+CFI00542,11-09-2022,Jharkhand,District-27,Job Scam,36-45,Other,54641,FIR Registered,Helpline
+CFI00543,18-09-2024,Punjab,District-18,Lottery Scam,46-60,Other,149204,Complaint Filed,Local Police
+CFI00544,14-09-2023,Tamil Nadu,District-11,Debit Card Fraud,60+,Female,452669,Complaint Filed,Self Report
+CFI00545,05-09-2024,Kerala,District-7,UPI Fraud,46-60,Male,472695,FIR Registered,Helpline
+CFI00546,08-04-2023,Madhya Pradesh,District-22,UPI Fraud,60+,Male,344618,No Action,Self Report
+CFI00547,16-06-2022,Bihar,District-13,SIM Swap,60+,Male,306672,Resolved,Cyber Cell
+CFI00548,04-12-2022,Rajasthan,District-22,Investment Scam,60+,Female,476280,Complaint Filed,Helpline
+CFI00549,07-09-2022,Gujarat,District-27,Lottery Scam,46-60,Male,155027,FIR Registered,Bank
+CFI00550,20-09-2021,Telangana,District-24,Ransomware,46-60,Male,497460,Complaint Filed,Local Police
+CFI00551,01-04-2022,Punjab,District-8,Social Media Hacking,26-35,Female,414186,Complaint Filed,Self Report
+CFI00552,18-06-2022,Himachal Pradesh,District-10,Online Shopping Scam,Under 18,Female,29142,Resolved,Helpline
+CFI00553,25-06-2024,Tamil Nadu,District-16,Credit Card Fraud,46-60,Male,455818,No Action,Helpline
+CFI00554,04-09-2022,Bihar,District-2,Data Breach,18-25,Male,106013,Complaint Filed,Bank
+CFI00555,12-03-2024,Odisha,District-5,Identity Theft,60+,Male,409389,FIR Registered,Bank
+CFI00556,13-11-2022,Gujarat,District-11,Lottery Scam,Under 18,Male,238006,Complaint Filed,Cyber Cell
+CFI00557,08-04-2025,Gujarat,District-19,Ransomware,18-25,Female,412676,FIR Registered,Cyber Cell
+CFI00558,12-06-2024,Bihar,District-21,SIM Swap,36-45,Female,251295,No Action,Local Police
+CFI00559,19-03-2021,Chhattisgarh,District-7,Social Media Hacking,26-35,Male,468668,Complaint Filed,Helpline
+CFI00560,26-01-2022,Maharashtra,District-22,Phishing,60+,Other,131454,Under Investigation,Self Report
+CFI00561,02-10-2022,Delhi,District-4,SIM Swap,46-60,Other,161492,Under Investigation,Local Police
+CFI00562,15-08-2025,Karnataka,District-10,Debit Card Fraud,36-45,Other,273780,Resolved,Helpline
+CFI00563,23-11-2022,Bihar,District-29,Lottery Scam,18-25,Female,473584,No Action,Self Report
+CFI00564,17-03-2025,West Bengal,District-6,Ransomware,36-45,Male,120756,Under Investigation,Cyber Cell
+CFI00565,09-03-2022,Maharashtra,District-19,Investment Scam,18-25,Male,193199,FIR Registered,Bank
+CFI00566,01-12-2025,Telangana,District-25,Investment Scam,46-60,Male,312387,FIR Registered,Local Police
+CFI00567,31-08-2024,Maharashtra,District-2,Social Media Hacking,Under 18,Female,233948,No Action,Local Police
+CFI00568,26-01-2024,Telangana,District-16,Social Media Hacking,18-25,Male,365480,FIR Registered,Self Report
+CFI00569,12-05-2023,Uttar Pradesh,District-22,Investment Scam,26-35,Other,318526,Under Investigation,Bank
+CFI00570,29-08-2025,Uttar Pradesh,District-17,Social Media Hacking,46-60,Male,149219,FIR Registered,Local Police
+CFI00571,17-10-2023,West Bengal,District-20,Credit Card Fraud,26-35,Other,106734,Complaint Filed,Bank
+CFI00572,28-08-2022,Gujarat,District-2,Investment Scam,36-45,Male,361817,No Action,Self Report
+CFI00573,26-04-2022,Maharashtra,District-1,Lottery Scam,Under 18,Male,438902,Resolved,Bank
+CFI00574,02-11-2021,Tamil Nadu,District-25,Investment Scam,Under 18,Other,380362,FIR Registered,Self Report
+CFI00575,12-08-2024,Rajasthan,District-15,Debit Card Fraud,26-35,Female,27256,FIR Registered,Cyber Cell
+CFI00576,26-11-2025,Karnataka,District-28,Debit Card Fraud,26-35,Other,164948,No Action,Local Police
+CFI00577,14-07-2021,Karnataka,District-1,Data Breach,18-25,Other,340318,Under Investigation,Self Report
+CFI00578,03-01-2023,Odisha,District-20,Debit Card Fraud,60+,Male,196361,Complaint Filed,Cyber Cell
+CFI00579,22-08-2021,Haryana,District-13,Online Shopping Scam,26-35,Female,362707,No Action,Bank
+CFI00580,21-08-2024,Gujarat,District-4,UPI Fraud,60+,Other,31747,Under Investigation,Local Police
+CFI00581,03-05-2023,Himachal Pradesh,District-16,Ransomware,46-60,Other,230723,Under Investigation,Helpline
+CFI00582,17-02-2023,Punjab,District-20,Phishing,60+,Other,468540,Under Investigation,Bank
+CFI00583,27-09-2023,Uttar Pradesh,District-29,SIM Swap,36-45,Male,34206,Complaint Filed,Self Report
+CFI00584,26-01-2021,Jharkhand,District-25,Social Media Hacking,46-60,Other,297229,Under Investigation,Self Report
+CFI00585,30-11-2023,Jharkhand,District-23,Social Media Hacking,46-60,Male,227936,Under Investigation,Bank
+CFI00586,10-12-2022,Haryana,District-5,Data Breach,46-60,Other,29608,FIR Registered,Cyber Cell
+CFI00587,02-11-2023,Assam,District-28,Online Shopping Scam,18-25,Male,394965,No Action,Self Report
+CFI00588,09-05-2022,Madhya Pradesh,District-9,Phishing,46-60,Male,289618,No Action,Bank
+CFI00589,01-08-2025,Rajasthan,District-3,Online Shopping Scam,36-45,Other,235932,FIR Registered,Bank
+CFI00590,05-07-2023,Madhya Pradesh,District-4,Online Shopping Scam,60+,Other,10316,FIR Registered,Bank
+CFI00591,25-04-2023,Karnataka,District-18,Investment Scam,Under 18,Male,416122,Resolved,Helpline
+CFI00592,29-07-2024,Kerala,District-29,Investment Scam,46-60,Male,344196,No Action,Self Report
+CFI00593,15-01-2023,Karnataka,District-27,Credit Card Fraud,36-45,Female,294680,Resolved,Helpline
+CFI00594,27-08-2023,Punjab,District-23,Online Shopping Scam,Under 18,Male,399102,Under Investigation,Local Police
+CFI00595,01-12-2022,Punjab,District-27,Lottery Scam,26-35,Other,274670,Complaint Filed,Local Police
+CFI00596,04-04-2021,Gujarat,District-16,UPI Fraud,60+,Other,379304,No Action,Local Police
+CFI00597,05-06-2022,Uttarakhand,District-7,Credit Card Fraud,Under 18,Female,114030,No Action,Cyber Cell
+CFI00598,07-01-2025,Madhya Pradesh,District-4,Ransomware,36-45,Male,486819,Resolved,Local Police
+CFI00599,01-05-2025,Odisha,District-15,Lottery Scam,46-60,Other,71588,No Action,Local Police
+CFI00600,23-12-2023,Karnataka,District-18,SIM Swap,46-60,Female,485636,Resolved,Cyber Cell
+CFI00601,17-11-2024,Himachal Pradesh,District-6,Social Media Hacking,18-25,Male,204112,Resolved,Helpline
+CFI00602,13-12-2025,Madhya Pradesh,District-17,SIM Swap,36-45,Other,481200,Under Investigation,Self Report
+CFI00603,26-03-2023,Madhya Pradesh,District-10,Online Shopping Scam,18-25,Male,217397,Resolved,Helpline
+CFI00604,05-09-2022,Chhattisgarh,District-28,Identity Theft,60+,Other,491477,Resolved,Cyber Cell
+CFI00605,16-02-2022,West Bengal,District-20,Social Media Hacking,26-35,Other,182033,Under Investigation,Cyber Cell
+CFI00606,29-10-2023,Chhattisgarh,District-23,Lottery Scam,26-35,Other,61505,Complaint Filed,Helpline
+CFI00607,11-09-2023,Himachal Pradesh,District-19,Lottery Scam,60+,Female,354497,Resolved,Self Report
+CFI00608,03-12-2025,Bihar,District-26,Phishing,46-60,Male,14249,No Action,Cyber Cell
+CFI00609,19-04-2021,Karnataka,District-7,Debit Card Fraud,18-25,Female,359293,Complaint Filed,Cyber Cell
+CFI00610,16-09-2025,Karnataka,District-23,Ransomware,26-35,Male,396100,Resolved,Local Police
+CFI00611,05-01-2023,Odisha,District-4,Job Scam,60+,Other,295589,Under Investigation,Helpline
+CFI00612,08-03-2023,Rajasthan,District-17,Ransomware,60+,Female,364298,FIR Registered,Bank
+CFI00613,05-03-2023,Bihar,District-26,Lottery Scam,26-35,Other,29207,FIR Registered,Self Report
+CFI00614,20-02-2022,Uttarakhand,District-28,Ransomware,36-45,Male,478881,Complaint Filed,Helpline
+CFI00615,25-01-2024,Uttarakhand,District-7,Ransomware,60+,Male,155233,No Action,Cyber Cell
+CFI00616,30-10-2024,Tamil Nadu,District-6,UPI Fraud,60+,Other,63575,No Action,Local Police
+CFI00617,28-05-2023,Telangana,District-18,Debit Card Fraud,18-25,Male,307176,Complaint Filed,Local Police
+CFI00618,08-11-2022,Odisha,District-23,UPI Fraud,Under 18,Male,487868,Complaint Filed,Helpline
+CFI00619,15-04-2021,Uttarakhand,District-27,Lottery Scam,26-35,Female,415139,Resolved,Helpline
+CFI00620,04-01-2023,Tamil Nadu,District-26,Social Media Hacking,26-35,Other,116323,Under Investigation,Helpline
+CFI00621,20-05-2021,Jharkhand,District-6,SIM Swap,46-60,Other,212506,FIR Registered,Self Report
+CFI00622,30-03-2022,West Bengal,District-22,Identity Theft,26-35,Female,154917,Under Investigation,Helpline
+CFI00623,23-12-2023,Assam,District-18,Data Breach,60+,Male,61147,Complaint Filed,Bank
+CFI00624,08-05-2022,Uttarakhand,District-30,Job Scam,18-25,Male,358853,Complaint Filed,Bank
+CFI00625,19-06-2025,Uttar Pradesh,District-13,Debit Card Fraud,46-60,Other,149283,FIR Registered,Helpline
+CFI00626,11-08-2025,Punjab,District-17,Ransomware,46-60,Female,256225,FIR Registered,Self Report
+CFI00627,27-08-2024,West Bengal,District-11,Investment Scam,Under 18,Male,88763,Resolved,Helpline
+CFI00628,16-01-2021,Tamil Nadu,District-7,Lottery Scam,60+,Male,454483,No Action,Local Police
+CFI00629,26-02-2022,Chhattisgarh,District-27,Social Media Hacking,60+,Female,339984,FIR Registered,Cyber Cell
+CFI00630,18-02-2021,Odisha,District-23,Identity Theft,Under 18,Male,39403,FIR Registered,Cyber Cell
+CFI00631,15-06-2025,Telangana,District-18,OTP Fraud,46-60,Male,478619,Complaint Filed,Bank
+CFI00632,06-03-2023,Odisha,District-21,SIM Swap,36-45,Female,9855,No Action,Local Police
+CFI00633,01-01-2024,Maharashtra,District-21,Social Media Hacking,46-60,Male,397341,Resolved,Local Police
+CFI00634,06-12-2024,Tamil Nadu,District-12,Investment Scam,Under 18,Female,413557,Complaint Filed,Helpline
+CFI00635,27-06-2021,Kerala,District-25,Online Shopping Scam,36-45,Female,432028,FIR Registered,Bank
+CFI00636,17-11-2021,Chhattisgarh,District-8,UPI Fraud,60+,Female,418737,Resolved,Self Report
+CFI00637,22-07-2024,Delhi,District-10,Lottery Scam,60+,Other,196627,FIR Registered,Helpline
+CFI00638,27-11-2025,Chhattisgarh,District-5,OTP Fraud,Under 18,Male,301269,Resolved,Bank
+CFI00639,06-01-2024,Chhattisgarh,District-3,Debit Card Fraud,18-25,Other,389723,Complaint Filed,Cyber Cell
+CFI00640,26-04-2023,Jharkhand,District-5,UPI Fraud,18-25,Male,324425,Complaint Filed,Cyber Cell
+CFI00641,23-08-2021,Gujarat,District-22,Ransomware,46-60,Male,447372,Resolved,Bank
+CFI00642,13-08-2024,Chhattisgarh,District-3,Debit Card Fraud,60+,Male,132432,FIR Registered,Cyber Cell
+CFI00643,26-01-2025,Himachal Pradesh,District-16,Identity Theft,26-35,Male,352952,Under Investigation,Local Police
+CFI00644,07-08-2022,Uttarakhand,District-3,Credit Card Fraud,26-35,Female,237268,Complaint Filed,Helpline
+CFI00645,12-09-2024,Kerala,District-23,Job Scam,18-25,Other,298198,Complaint Filed,Self Report
+CFI00646,28-05-2023,Gujarat,District-1,Identity Theft,18-25,Male,374397,No Action,Self Report
+CFI00647,17-09-2025,Punjab,District-5,Lottery Scam,60+,Female,461265,No Action,Bank
+CFI00648,02-07-2023,Punjab,District-25,Debit Card Fraud,36-45,Other,58059,Under Investigation,Helpline
+CFI00649,17-06-2021,Telangana,District-28,Data Breach,18-25,Other,103986,Complaint Filed,Local Police
+CFI00650,29-01-2025,Tamil Nadu,District-29,Phishing,46-60,Other,17354,Resolved,Helpline
+CFI00651,10-04-2023,Himachal Pradesh,District-7,Phishing,46-60,Female,285934,Resolved,Bank
+CFI00652,01-09-2024,Delhi,District-12,SIM Swap,18-25,Other,385422,Complaint Filed,Cyber Cell
+CFI00653,10-08-2023,Jharkhand,District-17,OTP Fraud,36-45,Female,264280,FIR Registered,Cyber Cell
+CFI00654,03-10-2025,Uttarakhand,District-22,UPI Fraud,46-60,Male,234948,Under Investigation,Cyber Cell
+CFI00655,05-03-2024,Himachal Pradesh,District-22,Data Breach,18-25,Other,384781,No Action,Self Report
+CFI00656,24-03-2021,Rajasthan,District-25,Online Shopping Scam,18-25,Male,139599,Complaint Filed,Cyber Cell
+CFI00657,29-03-2021,West Bengal,District-17,Ransomware,26-35,Female,247244,No Action,Local Police
+CFI00658,23-03-2021,Madhya Pradesh,District-4,Social Media Hacking,46-60,Other,435974,Complaint Filed,Self Report
+CFI00659,31-03-2024,Chhattisgarh,District-19,UPI Fraud,36-45,Other,199452,Complaint Filed,Helpline
+CFI00660,31-08-2024,Tamil Nadu,District-17,Debit Card Fraud,36-45,Male,271727,No Action,Self Report
+CFI00661,01-08-2025,Punjab,District-16,Ransomware,36-45,Other,4459,Resolved,Cyber Cell
+CFI00662,20-06-2023,Gujarat,District-8,OTP Fraud,46-60,Other,148225,Under Investigation,Cyber Cell
+CFI00663,18-01-2022,Gujarat,District-12,Job Scam,60+,Male,347611,Under Investigation,Bank
+CFI00664,20-07-2025,Madhya Pradesh,District-24,OTP Fraud,36-45,Other,252036,No Action,Cyber Cell
+CFI00665,24-04-2024,Gujarat,District-21,Data Breach,36-45,Male,128753,FIR Registered,Cyber Cell
+CFI00666,20-03-2024,Himachal Pradesh,District-6,UPI Fraud,60+,Other,21547,Resolved,Cyber Cell
+CFI00667,25-04-2021,Gujarat,District-9,UPI Fraud,46-60,Female,315235,Resolved,Local Police
+CFI00668,05-12-2025,Kerala,District-3,Credit Card Fraud,36-45,Other,248156,No Action,Cyber Cell
+CFI00669,26-03-2022,Bihar,District-20,UPI Fraud,46-60,Male,327742,Resolved,Self Report
+CFI00670,10-12-2021,Madhya Pradesh,District-30,Online Shopping Scam,46-60,Other,37093,Under Investigation,Bank
+CFI00671,01-03-2023,Delhi,District-4,Phishing,18-25,Other,451673,Resolved,Bank
+CFI00672,20-08-2025,Delhi,District-20,OTP Fraud,18-25,Female,473702,Resolved,Helpline
+CFI00673,21-03-2021,Chhattisgarh,District-17,Ransomware,Under 18,Male,253833,Under Investigation,Helpline
+CFI00674,10-01-2024,Maharashtra,District-29,Ransomware,60+,Other,227228,Resolved,Bank
+CFI00675,29-01-2023,Karnataka,District-23,Investment Scam,36-45,Male,493003,No Action,Bank
+CFI00676,19-12-2022,Himachal Pradesh,District-26,Social Media Hacking,60+,Other,52231,No Action,Cyber Cell
+CFI00677,06-06-2022,Assam,District-25,Credit Card Fraud,Under 18,Female,314677,Resolved,Bank
+CFI00678,12-06-2022,West Bengal,District-1,Social Media Hacking,60+,Male,304031,Resolved,Local Police
+CFI00679,01-12-2023,Maharashtra,District-13,Lottery Scam,18-25,Other,422678,Complaint Filed,Bank
+CFI00680,12-01-2023,Uttar Pradesh,District-5,SIM Swap,60+,Other,133976,Complaint Filed,Helpline
+CFI00681,18-05-2023,Himachal Pradesh,District-12,Job Scam,26-35,Other,209380,Under Investigation,Bank
+CFI00682,05-02-2024,Chhattisgarh,District-16,UPI Fraud,26-35,Other,291933,No Action,Self Report
+CFI00683,21-09-2022,Himachal Pradesh,District-12,Ransomware,60+,Female,386761,Under Investigation,Local Police
+CFI00684,12-03-2025,Rajasthan,District-15,Ransomware,60+,Male,53574,Under Investigation,Helpline
+CFI00685,01-04-2023,Madhya Pradesh,District-26,Investment Scam,46-60,Other,359908,FIR Registered,Cyber Cell
+CFI00686,08-03-2023,Maharashtra,District-26,OTP Fraud,18-25,Female,486418,Resolved,Bank
+CFI00687,30-06-2021,Tamil Nadu,District-9,Credit Card Fraud,26-35,Male,320306,FIR Registered,Bank
+CFI00688,01-04-2023,Uttarakhand,District-21,Investment Scam,26-35,Other,314247,FIR Registered,Cyber Cell
+CFI00689,04-08-2024,Assam,District-15,Phishing,18-25,Other,488985,Resolved,Self Report
+CFI00690,03-02-2022,Karnataka,District-26,Job Scam,46-60,Other,367188,Under Investigation,Helpline
+CFI00691,14-12-2021,Karnataka,District-12,Credit Card Fraud,60+,Male,83546,FIR Registered,Self Report
+CFI00692,16-05-2025,Haryana,District-12,Lottery Scam,36-45,Female,308274,Under Investigation,Helpline
+CFI00693,01-02-2021,Tamil Nadu,District-30,OTP Fraud,46-60,Female,381705,Resolved,Helpline
+CFI00694,14-12-2022,Punjab,District-27,Debit Card Fraud,18-25,Other,102987,No Action,Bank
+CFI00695,23-03-2024,Maharashtra,District-9,UPI Fraud,36-45,Other,56818,Resolved,Local Police
+CFI00696,28-10-2023,Kerala,District-11,OTP Fraud,46-60,Female,460335,Resolved,Helpline
+CFI00697,28-05-2022,Odisha,District-13,Job Scam,36-45,Male,398134,Complaint Filed,Bank
+CFI00698,27-10-2024,Odisha,District-29,Job Scam,Under 18,Female,61958,Complaint Filed,Local Police
+CFI00699,23-02-2023,Rajasthan,District-22,Social Media Hacking,18-25,Female,217229,Complaint Filed,Helpline
+CFI00700,03-01-2024,Maharashtra,District-23,Data Breach,26-35,Male,151622,FIR Registered,Bank
+CFI00701,11-10-2024,Madhya Pradesh,District-3,Investment Scam,18-25,Female,165559,Complaint Filed,Cyber Cell
+CFI00702,20-03-2024,Telangana,District-6,Social Media Hacking,60+,Male,262619,Under Investigation,Cyber Cell
+CFI00703,15-02-2025,Rajasthan,District-28,Debit Card Fraud,18-25,Male,107308,Under Investigation,Helpline
+CFI00704,31-12-2022,Delhi,District-25,OTP Fraud,Under 18,Male,355320,No Action,Helpline
+CFI00705,14-01-2021,Chhattisgarh,District-2,Data Breach,36-45,Female,326408,Complaint Filed,Bank
+CFI00706,10-12-2025,Himachal Pradesh,District-28,Debit Card Fraud,36-45,Male,401693,Resolved,Self Report
+CFI00707,26-03-2023,Rajasthan,District-25,Job Scam,18-25,Male,276636,No Action,Bank
+CFI00708,13-01-2024,Karnataka,District-17,Identity Theft,36-45,Other,407797,Under Investigation,Bank
+CFI00709,04-09-2021,Jharkhand,District-15,Identity Theft,60+,Male,7197,Under Investigation,Bank
+CFI00710,04-04-2024,Uttar Pradesh,District-11,Identity Theft,46-60,Female,99121,Resolved,Self Report
+CFI00711,01-05-2022,Telangana,District-16,Job Scam,26-35,Female,97423,No Action,Bank
+CFI00712,08-03-2022,Bihar,District-23,Ransomware,26-35,Female,448912,No Action,Self Report
+CFI00713,13-07-2023,Gujarat,District-19,UPI Fraud,46-60,Other,120834,FIR Registered,Self Report
+CFI00714,05-07-2025,Rajasthan,District-18,SIM Swap,36-45,Male,77464,Under Investigation,Bank
+CFI00715,09-07-2025,Maharashtra,District-6,SIM Swap,36-45,Male,469330,Resolved,Helpline
+CFI00716,15-01-2025,Madhya Pradesh,District-26,Online Shopping Scam,26-35,Female,295722,Resolved,Local Police
+CFI00717,27-03-2023,Uttar Pradesh,District-23,UPI Fraud,Under 18,Male,427675,Complaint Filed,Bank
+CFI00718,15-09-2025,Uttar Pradesh,District-15,Social Media Hacking,26-35,Female,190248,Complaint Filed,Helpline
+CFI00719,16-02-2024,Telangana,District-12,Phishing,36-45,Male,185072,Resolved,Cyber Cell
+CFI00720,27-03-2024,Himachal Pradesh,District-21,Lottery Scam,46-60,Male,410106,Complaint Filed,Self Report
+CFI00721,28-10-2022,Jharkhand,District-16,Ransomware,60+,Female,467423,FIR Registered,Bank
+CFI00722,10-06-2024,Kerala,District-15,Lottery Scam,18-25,Male,336848,Complaint Filed,Bank
+CFI00723,16-07-2024,Uttarakhand,District-19,SIM Swap,Under 18,Male,85934,Complaint Filed,Cyber Cell
+CFI00724,05-10-2022,Madhya Pradesh,District-21,Debit Card Fraud,60+,Female,318396,No Action,Self Report
+CFI00725,23-12-2025,Odisha,District-25,Data Breach,26-35,Other,308714,Resolved,Bank
+CFI00726,28-04-2023,Gujarat,District-6,Data Breach,Under 18,Male,382562,Under Investigation,Self Report
+CFI00727,04-03-2025,Tamil Nadu,District-7,UPI Fraud,36-45,Male,51097,FIR Registered,Bank
+CFI00728,29-01-2024,Karnataka,District-1,Ransomware,36-45,Other,402078,FIR Registered,Local Police
+CFI00729,22-06-2022,Uttarakhand,District-5,OTP Fraud,60+,Female,163199,Under Investigation,Cyber Cell
+CFI00730,19-02-2025,Kerala,District-15,Lottery Scam,18-25,Male,277164,Under Investigation,Local Police
+CFI00731,13-03-2021,Punjab,District-28,Identity Theft,36-45,Female,457601,Resolved,Self Report
+CFI00732,29-01-2024,Odisha,District-5,Social Media Hacking,46-60,Male,310765,Resolved,Bank
+CFI00733,16-07-2024,Himachal Pradesh,District-14,Investment Scam,60+,Other,280856,Complaint Filed,Self Report
+CFI00734,14-09-2023,Chhattisgarh,District-8,Ransomware,Under 18,Female,162411,Complaint Filed,Bank
+CFI00735,17-06-2022,Delhi,District-10,Phishing,Under 18,Other,428493,Under Investigation,Self Report
+CFI00736,11-08-2022,Assam,District-18,Phishing,60+,Female,497478,No Action,Self Report
+CFI00737,19-01-2021,Bihar,District-26,Debit Card Fraud,46-60,Male,418735,FIR Registered,Helpline
+CFI00738,05-02-2023,West Bengal,District-14,Investment Scam,36-45,Female,132017,Under Investigation,Bank
+CFI00739,24-08-2025,Haryana,District-8,Debit Card Fraud,Under 18,Female,328849,Under Investigation,Helpline
+CFI00740,15-04-2025,Uttarakhand,District-26,Social Media Hacking,60+,Female,150252,Resolved,Self Report
+CFI00741,26-04-2023,West Bengal,District-28,OTP Fraud,18-25,Male,152831,FIR Registered,Bank
+CFI00742,19-06-2024,Odisha,District-9,Social Media Hacking,46-60,Female,99455,Complaint Filed,Local Police
+CFI00743,08-11-2021,Karnataka,District-18,Phishing,18-25,Male,148909,Complaint Filed,Cyber Cell
+CFI00744,04-01-2025,Odisha,District-24,Phishing,18-25,Male,80001,FIR Registered,Bank
+CFI00745,21-03-2022,Madhya Pradesh,District-14,Debit Card Fraud,36-45,Female,244104,FIR Registered,Self Report
+CFI00746,14-06-2021,Delhi,District-2,Debit Card Fraud,36-45,Male,285789,No Action,Cyber Cell
+CFI00747,29-01-2022,Telangana,District-27,SIM Swap,Under 18,Male,403729,Under Investigation,Bank
+CFI00748,29-04-2025,Odisha,District-8,Social Media Hacking,Under 18,Male,242610,FIR Registered,Helpline
+CFI00749,25-09-2024,West Bengal,District-16,SIM Swap,60+,Female,491846,Complaint Filed,Cyber Cell
+CFI00750,12-07-2024,Karnataka,District-24,Investment Scam,46-60,Male,133808,No Action,Self Report
+CFI00751,11-02-2022,Punjab,District-29,Phishing,60+,Male,60207,Under Investigation,Bank
+CFI00752,27-10-2022,Maharashtra,District-6,Ransomware,26-35,Other,63730,No Action,Cyber Cell
+CFI00753,19-01-2021,Karnataka,District-19,Ransomware,60+,Female,361923,Resolved,Cyber Cell
+CFI00754,31-01-2023,Tamil Nadu,District-8,UPI Fraud,36-45,Male,360632,Resolved,Self Report
+CFI00755,05-04-2025,Karnataka,District-2,Identity Theft,60+,Male,368697,Resolved,Local Police
+CFI00756,15-09-2021,Assam,District-8,Identity Theft,46-60,Other,397727,Complaint Filed,Bank
+CFI00757,10-02-2025,West Bengal,District-1,Social Media Hacking,36-45,Female,380793,Under Investigation,Self Report
+CFI00758,22-03-2021,Assam,District-23,Online Shopping Scam,46-60,Female,285548,No Action,Cyber Cell
+CFI00759,06-03-2024,Gujarat,District-18,Identity Theft,26-35,Other,246573,Complaint Filed,Helpline
+CFI00760,29-10-2025,Chhattisgarh,District-6,OTP Fraud,46-60,Male,236606,Complaint Filed,Self Report
+CFI00761,15-01-2024,Punjab,District-15,Phishing,60+,Other,199727,Under Investigation,Local Police
+CFI00762,23-06-2024,Punjab,District-25,Job Scam,18-25,Female,379013,FIR Registered,Helpline
+CFI00763,05-08-2025,Haryana,District-7,Investment Scam,60+,Female,402465,Resolved,Cyber Cell
+CFI00764,09-06-2024,Kerala,District-11,SIM Swap,60+,Female,58915,FIR Registered,Helpline
+CFI00765,11-09-2024,Tamil Nadu,District-2,Data Breach,18-25,Male,458961,FIR Registered,Cyber Cell
+CFI00766,08-08-2021,Assam,District-7,OTP Fraud,Under 18,Other,337462,No Action,Bank
+CFI00767,13-12-2023,Uttarakhand,District-23,Job Scam,26-35,Male,193075,Under Investigation,Helpline
+CFI00768,10-01-2025,Tamil Nadu,District-1,Credit Card Fraud,60+,Female,487750,FIR Registered,Bank
+CFI00769,29-06-2025,Karnataka,District-12,Investment Scam,60+,Female,431978,Complaint Filed,Local Police
+CFI00770,14-08-2025,Uttarakhand,District-9,Investment Scam,Under 18,Other,37903,Complaint Filed,Local Police
+CFI00771,19-03-2022,Jharkhand,District-4,OTP Fraud,60+,Male,279743,No Action,Cyber Cell
+CFI00772,31-01-2022,Jharkhand,District-22,Credit Card Fraud,46-60,Other,497764,Under Investigation,Helpline
+CFI00773,15-03-2025,Chhattisgarh,District-14,Social Media Hacking,Under 18,Other,303285,Complaint Filed,Bank
+CFI00774,09-12-2024,Bihar,District-29,OTP Fraud,18-25,Male,289340,No Action,Helpline
+CFI00775,23-11-2022,Gujarat,District-18,Job Scam,36-45,Female,474162,Complaint Filed,Helpline
+CFI00776,27-10-2022,Punjab,District-14,Ransomware,60+,Female,434143,Complaint Filed,Helpline
+CFI00777,08-05-2022,Himachal Pradesh,District-18,Credit Card Fraud,36-45,Other,486567,Complaint Filed,Self Report
+CFI00778,16-07-2023,Odisha,District-13,Phishing,60+,Male,150150,Resolved,Local Police
+CFI00779,27-11-2023,Delhi,District-29,Debit Card Fraud,Under 18,Female,117332,Under Investigation,Self Report
+CFI00780,14-02-2021,Telangana,District-30,Investment Scam,46-60,Other,300194,Resolved,Cyber Cell
+CFI00781,13-07-2021,Karnataka,District-15,Identity Theft,18-25,Male,139930,Complaint Filed,Helpline
+CFI00782,27-05-2022,Rajasthan,District-9,Ransomware,26-35,Male,300099,No Action,Helpline
+CFI00783,22-03-2022,Tamil Nadu,District-24,Identity Theft,36-45,Male,256997,Resolved,Local Police
+CFI00784,04-05-2024,Kerala,District-2,Social Media Hacking,46-60,Female,42144,FIR Registered,Self Report
+CFI00785,14-12-2022,Bihar,District-14,Data Breach,Under 18,Male,392998,Resolved,Local Police
+CFI00786,22-07-2024,Haryana,District-2,Debit Card Fraud,46-60,Male,168413,Resolved,Helpline
+CFI00787,03-11-2021,Madhya Pradesh,District-17,Social Media Hacking,18-25,Male,27486,No Action,Bank
+CFI00788,22-03-2025,Uttarakhand,District-19,Investment Scam,Under 18,Male,227458,Complaint Filed,Bank
+CFI00789,31-10-2021,Delhi,District-11,OTP Fraud,36-45,Other,391759,FIR Registered,Helpline
+CFI00790,29-03-2023,Telangana,District-3,SIM Swap,46-60,Female,406707,Under Investigation,Cyber Cell
+CFI00791,12-09-2023,Chhattisgarh,District-7,Online Shopping Scam,36-45,Other,300541,Under Investigation,Helpline
+CFI00792,15-06-2024,Jharkhand,District-8,Credit Card Fraud,Under 18,Female,408252,No Action,Self Report
+CFI00793,03-11-2024,Himachal Pradesh,District-3,OTP Fraud,60+,Female,223057,Complaint Filed,Self Report
+CFI00794,26-01-2022,Madhya Pradesh,District-12,Job Scam,60+,Male,404534,Complaint Filed,Cyber Cell
+CFI00795,18-12-2022,Uttarakhand,District-27,Ransomware,36-45,Other,77450,No Action,Local Police
+CFI00796,03-08-2025,Rajasthan,District-7,Lottery Scam,26-35,Male,398270,FIR Registered,Local Police
+CFI00797,23-02-2025,Karnataka,District-8,Job Scam,18-25,Female,8200,Complaint Filed,Local Police
+CFI00798,17-09-2022,Odisha,District-16,Phishing,26-35,Male,388979,Resolved,Cyber Cell
+CFI00799,22-02-2022,Chhattisgarh,District-17,Ransomware,26-35,Other,254244,Resolved,Cyber Cell
+CFI00800,24-11-2024,Maharashtra,District-13,Job Scam,60+,Other,23797,Complaint Filed,Cyber Cell
+CFI00801,04-05-2021,Kerala,District-7,Ransomware,60+,Other,143229,FIR Registered,Bank
+CFI00802,02-09-2024,Maharashtra,District-3,SIM Swap,60+,Female,348593,Complaint Filed,Local Police
+CFI00803,09-02-2021,Kerala,District-28,Lottery Scam,36-45,Male,200597,Resolved,Local Police
+CFI00804,09-10-2022,Assam,District-28,Job Scam,46-60,Male,98736,Under Investigation,Helpline
+CFI00805,27-07-2023,Chhattisgarh,District-30,Social Media Hacking,Under 18,Male,130704,Resolved,Self Report
+CFI00806,15-11-2022,Assam,District-13,Social Media Hacking,18-25,Male,182812,Complaint Filed,Self Report
+CFI00807,04-07-2024,Kerala,District-8,Investment Scam,26-35,Male,329095,Complaint Filed,Bank
+CFI00808,29-12-2025,Maharashtra,District-18,Debit Card Fraud,18-25,Male,180194,No Action,Cyber Cell
+CFI00809,29-06-2021,Haryana,District-17,Lottery Scam,46-60,Other,360935,Under Investigation,Bank
+CFI00810,08-05-2022,Himachal Pradesh,District-5,SIM Swap,26-35,Other,173640,No Action,Helpline
+CFI00811,27-09-2021,West Bengal,District-21,UPI Fraud,46-60,Other,359638,Under Investigation,Cyber Cell
+CFI00812,25-09-2022,Jharkhand,District-30,UPI Fraud,36-45,Male,345054,Resolved,Cyber Cell
+CFI00813,13-10-2022,Tamil Nadu,District-18,Investment Scam,60+,Male,97539,Complaint Filed,Cyber Cell
+CFI00814,29-01-2025,Maharashtra,District-25,Identity Theft,36-45,Female,160041,No Action,Self Report
+CFI00815,08-11-2021,West Bengal,District-4,UPI Fraud,18-25,Male,400742,Resolved,Helpline
+CFI00816,01-07-2022,Uttarakhand,District-19,Job Scam,18-25,Other,122730,Under Investigation,Local Police
+CFI00817,06-01-2023,Tamil Nadu,District-23,Ransomware,36-45,Male,264362,Resolved,Bank
+CFI00818,29-12-2024,Punjab,District-6,Data Breach,36-45,Female,249432,Under Investigation,Cyber Cell
+CFI00819,31-01-2022,Rajasthan,District-2,SIM Swap,Under 18,Female,499177,No Action,Cyber Cell
+CFI00820,01-03-2025,West Bengal,District-25,Credit Card Fraud,Under 18,Male,487069,No Action,Helpline
+CFI00821,01-10-2023,Madhya Pradesh,District-28,Online Shopping Scam,18-25,Female,213266,FIR Registered,Helpline
+CFI00822,14-02-2025,Haryana,District-24,Identity Theft,36-45,Other,493379,Resolved,Helpline
+CFI00823,04-01-2024,Jharkhand,District-21,Social Media Hacking,Under 18,Other,58313,No Action,Bank
+CFI00824,21-08-2025,Karnataka,District-29,Credit Card Fraud,46-60,Other,208414,FIR Registered,Helpline
+CFI00825,05-03-2023,Jharkhand,District-25,Lottery Scam,Under 18,Male,153661,No Action,Bank
+CFI00826,17-12-2025,Kerala,District-25,Data Breach,26-35,Female,88286,No Action,Self Report
+CFI00827,09-06-2024,Karnataka,District-23,Investment Scam,18-25,Female,436103,No Action,Local Police
+CFI00828,19-01-2025,Jharkhand,District-4,UPI Fraud,46-60,Other,287474,Under Investigation,Bank
+CFI00829,27-04-2023,Madhya Pradesh,District-15,Phishing,18-25,Female,310495,Under Investigation,Bank
+CFI00830,04-07-2021,Telangana,District-11,Social Media Hacking,60+,Other,418588,Under Investigation,Local Police
+CFI00831,06-07-2021,Uttar Pradesh,District-23,Online Shopping Scam,60+,Female,45725,Resolved,Bank
+CFI00832,28-01-2025,Jharkhand,District-20,UPI Fraud,36-45,Other,200547,FIR Registered,Cyber Cell
+CFI00833,18-11-2022,Himachal Pradesh,District-28,Lottery Scam,18-25,Male,456511,Under Investigation,Cyber Cell
+CFI00834,25-04-2025,Karnataka,District-14,Debit Card Fraud,26-35,Other,403983,No Action,Self Report
+CFI00835,06-07-2024,Gujarat,District-4,UPI Fraud,18-25,Male,327400,Complaint Filed,Local Police
+CFI00836,29-07-2023,Assam,District-28,Online Shopping Scam,46-60,Male,319758,No Action,Cyber Cell
+CFI00837,21-03-2022,Himachal Pradesh,District-22,Online Shopping Scam,36-45,Female,232669,FIR Registered,Helpline
+CFI00838,14-05-2024,Maharashtra,District-8,Investment Scam,26-35,Other,330586,Resolved,Cyber Cell
+CFI00839,11-04-2021,Gujarat,District-5,Phishing,60+,Female,20252,Under Investigation,Local Police
+CFI00840,28-09-2024,Himachal Pradesh,District-27,Job Scam,26-35,Female,483546,FIR Registered,Local Police
+CFI00841,12-08-2021,Bihar,District-6,UPI Fraud,60+,Female,321387,Resolved,Helpline
+CFI00842,01-06-2025,Chhattisgarh,District-6,Online Shopping Scam,60+,Other,189842,FIR Registered,Local Police
+CFI00843,23-04-2025,Kerala,District-11,Identity Theft,36-45,Male,398642,No Action,Helpline
+CFI00844,13-05-2021,Kerala,District-16,UPI Fraud,Under 18,Other,451577,Complaint Filed,Self Report
+CFI00845,16-12-2023,Bihar,District-17,Credit Card Fraud,60+,Male,321892,FIR Registered,Local Police
+CFI00846,16-03-2024,Jharkhand,District-3,Online Shopping Scam,60+,Other,318077,Complaint Filed,Bank
+CFI00847,31-05-2024,Madhya Pradesh,District-9,Investment Scam,46-60,Other,186521,Under Investigation,Helpline
+CFI00848,27-02-2024,Assam,District-17,Social Media Hacking,60+,Female,259214,Under Investigation,Helpline
+CFI00849,22-04-2022,Kerala,District-7,Phishing,Under 18,Male,244733,FIR Registered,Cyber Cell
+CFI00850,26-06-2025,Uttarakhand,District-14,SIM Swap,Under 18,Female,184317,Resolved,Cyber Cell
+CFI00851,24-01-2021,West Bengal,District-23,Debit Card Fraud,26-35,Male,162361,Complaint Filed,Helpline
+CFI00852,01-02-2024,Madhya Pradesh,District-25,Phishing,Under 18,Other,175736,Complaint Filed,Bank
+CFI00853,23-01-2025,Himachal Pradesh,District-20,Phishing,18-25,Male,174284,Complaint Filed,Bank
+CFI00854,30-08-2023,Karnataka,District-21,UPI Fraud,36-45,Male,329833,No Action,Helpline
+CFI00855,18-11-2022,Odisha,District-26,Data Breach,36-45,Other,30371,Resolved,Self Report
+CFI00856,03-03-2024,Madhya Pradesh,District-18,Investment Scam,Under 18,Male,303722,Complaint Filed,Self Report
+CFI00857,16-05-2021,Delhi,District-9,Data Breach,Under 18,Female,197734,Resolved,Cyber Cell
+CFI00858,15-03-2024,Uttarakhand,District-13,UPI Fraud,46-60,Male,454296,Complaint Filed,Self Report
+CFI00859,24-12-2024,Karnataka,District-9,SIM Swap,Under 18,Female,460826,Under Investigation,Self Report
+CFI00860,15-07-2023,Kerala,District-7,Investment Scam,26-35,Male,59841,Complaint Filed,Local Police
+CFI00861,12-05-2025,West Bengal,District-30,OTP Fraud,36-45,Other,14073,No Action,Helpline
+CFI00862,12-11-2021,West Bengal,District-11,Online Shopping Scam,60+,Other,163717,Complaint Filed,Cyber Cell
+CFI00863,25-04-2025,Uttar Pradesh,District-27,Investment Scam,60+,Male,108577,FIR Registered,Bank
+CFI00864,05-03-2023,Jharkhand,District-4,Phishing,26-35,Male,361213,Resolved,Local Police
+CFI00865,14-11-2022,Odisha,District-29,Phishing,Under 18,Other,402699,Complaint Filed,Local Police
+CFI00866,28-03-2024,Kerala,District-21,Credit Card Fraud,26-35,Male,101949,Complaint Filed,Self Report
+CFI00867,27-12-2023,Madhya Pradesh,District-25,Online Shopping Scam,60+,Male,143949,Under Investigation,Cyber Cell
+CFI00868,15-07-2022,Uttar Pradesh,District-1,Job Scam,46-60,Other,54674,Under Investigation,Helpline
+CFI00869,19-12-2022,Chhattisgarh,District-11,Debit Card Fraud,18-25,Other,422529,Complaint Filed,Helpline
+CFI00870,17-05-2022,Gujarat,District-3,Debit Card Fraud,46-60,Female,284418,No Action,Local Police
+CFI00871,24-09-2021,Maharashtra,District-16,Lottery Scam,Under 18,Male,202116,FIR Registered,Local Police
+CFI00872,24-05-2023,Haryana,District-6,Social Media Hacking,46-60,Other,331023,No Action,Helpline
+CFI00873,30-12-2022,Kerala,District-11,Data Breach,18-25,Other,398621,Resolved,Local Police
+CFI00874,28-03-2025,Odisha,District-19,UPI Fraud,Under 18,Other,246511,FIR Registered,Bank
+CFI00875,28-09-2022,Odisha,District-16,Credit Card Fraud,18-25,Male,452462,Resolved,Self Report
+CFI00876,15-01-2023,Haryana,District-6,Social Media Hacking,60+,Female,414547,Complaint Filed,Bank
+CFI00877,26-09-2023,Maharashtra,District-3,Online Shopping Scam,Under 18,Female,251951,No Action,Cyber Cell
+CFI00878,02-08-2022,Punjab,District-20,Job Scam,18-25,Other,54966,No Action,Local Police
+CFI00879,30-10-2022,Chhattisgarh,District-21,OTP Fraud,26-35,Other,242683,No Action,Helpline
+CFI00880,27-04-2023,Rajasthan,District-20,Credit Card Fraud,46-60,Male,253903,No Action,Local Police
+CFI00881,29-11-2022,West Bengal,District-27,Social Media Hacking,46-60,Female,412206,No Action,Helpline
+CFI00882,01-06-2025,Madhya Pradesh,District-18,Social Media Hacking,18-25,Male,348399,FIR Registered,Helpline
+CFI00883,10-09-2025,Assam,District-4,Job Scam,46-60,Female,171591,Resolved,Local Police
+CFI00884,11-08-2025,Odisha,District-6,Debit Card Fraud,36-45,Male,314660,FIR Registered,Helpline
+CFI00885,29-04-2025,Haryana,District-11,Online Shopping Scam,60+,Other,33234,FIR Registered,Cyber Cell
+CFI00886,01-08-2025,Delhi,District-29,Job Scam,60+,Male,397926,Under Investigation,Cyber Cell
+CFI00887,17-07-2023,Chhattisgarh,District-10,SIM Swap,46-60,Other,235440,Under Investigation,Cyber Cell
+CFI00888,27-10-2024,Madhya Pradesh,District-10,Job Scam,60+,Female,482559,No Action,Self Report
+CFI00889,02-07-2021,Himachal Pradesh,District-1,Job Scam,46-60,Female,445405,Under Investigation,Self Report
+CFI00890,08-05-2021,Punjab,District-29,Investment Scam,Under 18,Male,369760,Resolved,Self Report
+CFI00891,13-08-2021,Kerala,District-28,Phishing,18-25,Female,369166,Resolved,Bank
+CFI00892,04-07-2024,Madhya Pradesh,District-23,SIM Swap,36-45,Female,229164,Resolved,Cyber Cell
+CFI00893,18-09-2024,Gujarat,District-16,UPI Fraud,18-25,Other,202638,Complaint Filed,Bank
+CFI00894,12-11-2021,Kerala,District-28,Lottery Scam,18-25,Male,7083,FIR Registered,Local Police
+CFI00895,22-10-2021,Assam,District-22,SIM Swap,18-25,Male,72942,No Action,Bank
+CFI00896,04-06-2025,Uttarakhand,District-30,SIM Swap,46-60,Male,239233,Resolved,Bank
+CFI00897,05-02-2024,Odisha,District-13,Identity Theft,18-25,Male,223702,Resolved,Local Police
+CFI00898,29-03-2024,Assam,District-28,Social Media Hacking,18-25,Other,264050,Complaint Filed,Bank
+CFI00899,24-01-2024,Himachal Pradesh,District-12,Phishing,Under 18,Other,254371,Complaint Filed,Local Police
+CFI00900,03-04-2024,Assam,District-23,OTP Fraud,18-25,Other,384408,Resolved,Self Report
+CFI00901,11-08-2023,Jharkhand,District-3,Investment Scam,46-60,Male,129571,No Action,Local Police
+CFI00902,01-11-2024,Chhattisgarh,District-26,Job Scam,26-35,Other,28668,Complaint Filed,Helpline
+CFI00903,14-05-2025,Maharashtra,District-16,Online Shopping Scam,46-60,Female,301923,Complaint Filed,Bank
+CFI00904,24-12-2022,Kerala,District-10,UPI Fraud,Under 18,Other,484846,Resolved,Self Report
+CFI00905,28-01-2025,Himachal Pradesh,District-9,Phishing,60+,Female,304112,Under Investigation,Helpline
+CFI00906,16-04-2021,Kerala,District-26,Social Media Hacking,46-60,Male,151374,No Action,Local Police
+CFI00907,17-09-2021,Jharkhand,District-3,Data Breach,26-35,Female,70488,Resolved,Self Report
+CFI00908,18-07-2022,Telangana,District-1,Social Media Hacking,Under 18,Other,92547,Resolved,Cyber Cell
+CFI00909,11-09-2024,Odisha,District-12,Ransomware,18-25,Female,411269,Under Investigation,Bank
+CFI00910,06-01-2022,Jharkhand,District-28,Phishing,26-35,Male,77058,Resolved,Cyber Cell
+CFI00911,12-09-2025,Assam,District-25,SIM Swap,36-45,Male,347379,No Action,Cyber Cell
+CFI00912,08-03-2022,Himachal Pradesh,District-24,Data Breach,26-35,Male,337729,Complaint Filed,Local Police
+CFI00913,18-04-2021,Gujarat,District-15,SIM Swap,36-45,Female,250700,Resolved,Cyber Cell
+CFI00914,17-02-2023,Haryana,District-16,Debit Card Fraud,18-25,Other,457276,No Action,Local Police
+CFI00915,15-08-2022,Odisha,District-13,Lottery Scam,26-35,Other,359023,FIR Registered,Local Police
+CFI00916,25-12-2023,Punjab,District-28,SIM Swap,46-60,Other,451025,Complaint Filed,Self Report
+CFI00917,08-07-2022,Telangana,District-26,OTP Fraud,26-35,Other,307276,No Action,Bank
+CFI00918,03-05-2025,Rajasthan,District-24,Lottery Scam,46-60,Male,273604,Complaint Filed,Cyber Cell
+CFI00919,04-10-2022,Chhattisgarh,District-1,Lottery Scam,Under 18,Male,7271,No Action,Local Police
+CFI00920,12-12-2023,Uttar Pradesh,District-22,Online Shopping Scam,26-35,Male,381240,Complaint Filed,Self Report
+CFI00921,31-01-2022,Karnataka,District-1,Job Scam,Under 18,Male,493047,Resolved,Cyber Cell
+CFI00922,12-05-2024,Uttar Pradesh,District-23,OTP Fraud,Under 18,Other,69108,No Action,Helpline
+CFI00923,03-07-2025,Gujarat,District-29,OTP Fraud,60+,Male,133820,Complaint Filed,Bank
+CFI00924,14-09-2024,Tamil Nadu,District-21,Online Shopping Scam,26-35,Female,363923,Complaint Filed,Self Report
+CFI00925,28-11-2021,Tamil Nadu,District-9,Ransomware,Under 18,Female,204733,Complaint Filed,Local Police
+CFI00926,13-06-2022,Telangana,District-6,Online Shopping Scam,Under 18,Female,487846,Under Investigation,Helpline
+CFI00927,16-03-2023,Gujarat,District-21,Online Shopping Scam,Under 18,Male,284446,No Action,Cyber Cell
+CFI00928,11-06-2024,Uttar Pradesh,District-30,Online Shopping Scam,60+,Female,55152,FIR Registered,Local Police
+CFI00929,25-05-2021,Himachal Pradesh,District-24,Debit Card Fraud,36-45,Male,471030,No Action,Cyber Cell
+CFI00930,30-08-2024,Maharashtra,District-30,Phishing,60+,Female,140689,Under Investigation,Self Report
+CFI00931,13-03-2023,Himachal Pradesh,District-1,Investment Scam,60+,Female,251682,No Action,Bank
+CFI00932,25-09-2025,Tamil Nadu,District-18,Credit Card Fraud,Under 18,Female,362371,No Action,Local Police
+CFI00933,07-03-2024,Chhattisgarh,District-30,Identity Theft,26-35,Other,159769,No Action,Local Police
+CFI00934,18-07-2024,Tamil Nadu,District-12,Investment Scam,26-35,Male,442021,No Action,Self Report
+CFI00935,19-08-2024,West Bengal,District-6,Investment Scam,Under 18,Female,347414,Under Investigation,Self Report
+CFI00936,26-11-2024,Haryana,District-29,OTP Fraud,60+,Other,189356,No Action,Local Police
+CFI00937,18-12-2025,Odisha,District-24,Credit Card Fraud,18-25,Male,102236,FIR Registered,Helpline
+CFI00938,04-05-2022,Assam,District-13,OTP Fraud,46-60,Other,162339,No Action,Helpline
+CFI00939,05-09-2025,Odisha,District-1,Phishing,26-35,Male,178061,FIR Registered,Bank
+CFI00940,31-08-2021,West Bengal,District-26,Lottery Scam,60+,Other,241318,Resolved,Cyber Cell
+CFI00941,26-02-2025,Himachal Pradesh,District-8,OTP Fraud,Under 18,Other,75234,No Action,Local Police
+CFI00942,24-08-2023,Uttarakhand,District-2,Credit Card Fraud,60+,Other,69439,FIR Registered,Cyber Cell
+CFI00943,19-07-2024,Karnataka,District-29,Debit Card Fraud,Under 18,Female,321458,Under Investigation,Helpline
+CFI00944,11-05-2021,Uttar Pradesh,District-4,Online Shopping Scam,46-60,Other,116643,FIR Registered,Cyber Cell
+CFI00945,23-05-2023,Madhya Pradesh,District-26,Data Breach,60+,Other,211768,Complaint Filed,Local Police
+CFI00946,02-11-2024,Himachal Pradesh,District-18,UPI Fraud,26-35,Male,401675,FIR Registered,Helpline
+CFI00947,22-12-2021,Madhya Pradesh,District-3,OTP Fraud,26-35,Male,398174,No Action,Cyber Cell
+CFI00948,27-11-2024,Punjab,District-18,UPI Fraud,36-45,Male,486320,Resolved,Local Police
+CFI00949,01-10-2021,Uttar Pradesh,District-26,Data Breach,60+,Other,198200,Under Investigation,Local Police
+CFI00950,07-12-2025,Assam,District-3,Phishing,Under 18,Male,486562,FIR Registered,Helpline
+CFI00951,22-12-2025,Kerala,District-14,Social Media Hacking,36-45,Other,67528,Under Investigation,Cyber Cell
+CFI00952,03-08-2024,Telangana,District-17,Online Shopping Scam,36-45,Male,492829,Under Investigation,Helpline
+CFI00953,17-11-2024,Karnataka,District-20,UPI Fraud,60+,Female,321890,FIR Registered,Self Report
+CFI00954,14-12-2022,Bihar,District-1,Investment Scam,18-25,Male,62607,Resolved,Local Police
+CFI00955,21-06-2024,Punjab,District-28,Ransomware,46-60,Other,115963,No Action,Cyber Cell
+CFI00956,21-07-2022,Karnataka,District-7,OTP Fraud,18-25,Other,443384,No Action,Bank
+CFI00957,28-12-2021,Gujarat,District-22,Phishing,Under 18,Other,191942,Complaint Filed,Cyber Cell
+CFI00958,10-06-2023,Telangana,District-11,Job Scam,36-45,Male,55746,FIR Registered,Helpline
+CFI00959,27-12-2021,Gujarat,District-26,Phishing,36-45,Other,61851,FIR Registered,Cyber Cell
+CFI00960,17-01-2025,Odisha,District-19,Job Scam,26-35,Female,105202,Complaint Filed,Cyber Cell
+CFI00961,15-05-2025,Uttar Pradesh,District-11,Credit Card Fraud,Under 18,Male,387792,No Action,Cyber Cell
+CFI00962,09-02-2023,Rajasthan,District-3,Online Shopping Scam,46-60,Female,29489,No Action,Cyber Cell
+CFI00963,19-03-2022,Uttarakhand,District-15,UPI Fraud,36-45,Female,72515,No Action,Cyber Cell
+CFI00964,18-07-2024,Punjab,District-9,Credit Card Fraud,26-35,Male,17826,Resolved,Local Police
+CFI00965,29-07-2022,Delhi,District-4,Data Breach,36-45,Female,220269,Under Investigation,Self Report
+CFI00966,27-03-2022,Kerala,District-20,UPI Fraud,60+,Other,475783,Under Investigation,Helpline
+CFI00967,07-02-2024,Rajasthan,District-3,SIM Swap,46-60,Female,453040,Under Investigation,Helpline
+CFI00968,28-08-2023,Odisha,District-9,Phishing,60+,Female,386969,Under Investigation,Cyber Cell
+CFI00969,02-11-2022,Bihar,District-19,Credit Card Fraud,46-60,Male,480070,Resolved,Local Police
+CFI00970,06-05-2023,Karnataka,District-2,Online Shopping Scam,60+,Other,18626,No Action,Helpline
+CFI00971,19-03-2023,Assam,District-26,Ransomware,60+,Male,238209,No Action,Cyber Cell
+CFI00972,20-06-2021,Chhattisgarh,District-25,Phishing,60+,Other,214184,Under Investigation,Cyber Cell
+CFI00973,05-01-2023,Kerala,District-8,Lottery Scam,Under 18,Male,252544,Complaint Filed,Cyber Cell
+CFI00974,11-12-2024,Odisha,District-28,Job Scam,60+,Other,13799,No Action,Bank
+CFI00975,30-04-2025,Delhi,District-28,Social Media Hacking,36-45,Male,415113,Complaint Filed,Bank
+CFI00976,12-12-2024,Maharashtra,District-28,Lottery Scam,Under 18,Female,469416,Complaint Filed,Helpline
+CFI00977,08-03-2021,Kerala,District-14,Ransomware,26-35,Other,497026,Resolved,Helpline
+CFI00978,24-03-2024,West Bengal,District-26,Lottery Scam,Under 18,Other,462817,Complaint Filed,Local Police
+CFI00979,21-11-2023,Punjab,District-29,Phishing,Under 18,Female,192674,No Action,Helpline
+CFI00980,25-03-2021,Punjab,District-12,UPI Fraud,60+,Other,370556,FIR Registered,Helpline
+CFI00981,23-12-2024,West Bengal,District-5,Identity Theft,18-25,Other,60536,No Action,Helpline
+CFI00982,20-11-2025,West Bengal,District-25,Social Media Hacking,18-25,Female,185922,Complaint Filed,Helpline
+CFI00983,25-10-2024,Bihar,District-9,Phishing,Under 18,Female,181998,No Action,Bank
+CFI00984,24-10-2023,Jharkhand,District-27,OTP Fraud,36-45,Other,279871,Resolved,Self Report
+CFI00985,15-07-2023,Uttarakhand,District-12,Ransomware,60+,Other,425041,FIR Registered,Cyber Cell
+CFI00986,01-01-2026,Odisha,District-3,OTP Fraud,36-45,Male,152190,FIR Registered,Local Police
+CFI00987,04-12-2021,Telangana,District-4,Social Media Hacking,18-25,Female,79904,Under Investigation,Helpline
+CFI00988,08-07-2024,Maharashtra,District-10,SIM Swap,60+,Other,489490,Under Investigation,Bank
+CFI00989,12-12-2022,Bihar,District-15,Social Media Hacking,60+,Male,153838,Under Investigation,Local Police
+CFI00990,15-02-2021,Rajasthan,District-27,Investment Scam,60+,Female,216845,Resolved,Self Report
+CFI00991,04-09-2024,Madhya Pradesh,District-16,Job Scam,60+,Other,278959,Resolved,Bank
+CFI00992,27-07-2023,Kerala,District-19,UPI Fraud,26-35,Male,414803,Complaint Filed,Cyber Cell
+CFI00993,19-09-2023,Punjab,District-10,Ransomware,Under 18,Male,186137,Complaint Filed,Bank
+CFI00994,07-12-2021,Uttarakhand,District-30,UPI Fraud,60+,Other,150551,Under Investigation,Cyber Cell
+CFI00995,15-09-2025,Delhi,District-6,Credit Card Fraud,Under 18,Male,167003,Resolved,Cyber Cell
+CFI00996,22-06-2023,Telangana,District-12,UPI Fraud,18-25,Other,371742,FIR Registered,Self Report
+CFI00997,06-12-2022,Delhi,District-12,Online Shopping Scam,46-60,Male,280782,Complaint Filed,Local Police
+CFI00998,21-02-2021,Haryana,District-30,Online Shopping Scam,18-25,Female,487440,Complaint Filed,Cyber Cell
+CFI00999,09-01-2021,Chhattisgarh,District-17,Identity Theft,60+,Other,155956,No Action,Self Report
