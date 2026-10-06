@@ -333,10 +333,6 @@ Cyber-Fraud-Trends-in-India-Excel-Dashboard/
 └── 📄 LICENSE
 │
 └── 📄 README.md
-```
-
-> Replace the file names above with your actual GitHub file names if they are different.
-
 ---
 
 ## 📊 Dashboard Features
